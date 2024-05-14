@@ -6,7 +6,7 @@ class Program
     {
         Console.WriteLine("Hello Sandbox World!");
         
-        List<string> programs = new List<string>();
+        /*List<string> programs = new List<string>();
 
         programs.Add("Roulette");
 
@@ -23,7 +23,25 @@ class Program
         if (userSelection == 1)
         {
             Roulette();
-        }
+        }*/
+
+
+        Seasoning s1 = new Seasoning();
+        s1.title = "Pepper";
+        s1.quantity = 5;
+
+        Seasoning s2 = new Seasoning();
+        s2.title = "Salt";
+        s2.quantity = 4;
+        
+        Popcorn pop = new Popcorn();
+        pop.seasonings.Add(s1);
+        pop.seasonings.Add(s2);
+
+        s1.title = "Paprika";
+        s1.quantity = 27;
+
+        pop.Display();
         
     }
 
