@@ -4,14 +4,23 @@ public class Journal
 {
     List<Entry> entries = new List<Entry>();
 
+    PromptGenerator promptGen = new PromptGenerator();
+
     public void Write()
     {
         string currentDate = DateTime.Now.ToString("MM/dd/yyyy");
-
-        PromptGenerator promptGen = new PromptGenerator();
         
-        string prompt = promptGen.getPrompt();
+        string prompt = "";
 
+        if(entries.Count == 0)
+        {
+            prompt = promptGen.getPrompt(prompt);
+        }
+        else
+        {
+            prompt = promptGen.getPrompt(entries.Last().prompt);
+        }
+        
         Console.WriteLine(prompt);
         string userInput = Console.ReadLine();
 
