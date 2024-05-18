@@ -26,11 +26,13 @@ public class Journal
 
         entries.Add(new Entry(currentDate, prompt, userInput));
 
+        Console.WriteLine($"Entry created successfully");
+
     }
 
     public void Display()
     {
-        Console.WriteLine("Diplay Function");
+        Console.WriteLine("Entries:");
         if(entries.Count() == 0)
         {
             Console.WriteLine("There is nothing to display.");
@@ -61,6 +63,8 @@ public class Journal
                 writer.WriteLine($"\"{entry.date}\",\"{entry.prompt}\",\"{entry.text.Replace("\"", "\"\"")}\"");
             }
         }
+
+        Console.WriteLine($"{filePath} saved successfully");
     }
 
     public void Load()
@@ -83,6 +87,8 @@ public class Journal
                 entries.Add(new Entry(parsed[0], parsed[1], parsed[2].Replace("\"\"", "\"")));
             }
         }
+
+        Console.WriteLine($"{filePath} loaded successfully");
     }
 
     List<string> ParseCsvLine(string line)
