@@ -12,7 +12,7 @@ class Program
         Console.Clear();
         Console.WriteLine("Welcome to the Scripture Memorizer!");
 
-        Library collection = new Library("testRepository.txt");
+        Library collection = new Library();
 
         string userInput = "";
 
