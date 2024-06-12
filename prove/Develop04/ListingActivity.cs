@@ -27,7 +27,7 @@ public class ListingActivity : Activity
 
         Console.Clear();
         string prompt = ChooseString(prompts, usedPrompts, random);
-        Console.WriteLine($"List as many responses you can to the following prompt.\n\n--- {prompt} ---\n\nYou may begin in: ");
+        Console.Write($"List as many responses you can to the following prompt.\n\n--- {prompt} ---\n\nYou may begin in: ");
         CountDown(10);
         Console.WriteLine(0);
         int timer = GetDuration();

@@ -22,11 +22,12 @@ public class BreathingActivity : Activity
                 startPause = Convert.ToInt32(Math.Floor(Convert.ToDouble(time) / 2)) - 1;
                 endPause = Convert.ToInt32(Math.Ceiling(Convert.ToDouble(time) / 2)) + 1;
             }
-            Console.WriteLine("Breath in");
+            Console.Write("Breath in...");
             CountDown(startPause);
-            Console.WriteLine("Breath out");
+            Console.Write("\nBreath out...");
             CountDown(endPause);
             time = time - startPause - endPause;
+            Console.WriteLine();
         }
         DisplayEndMessage();
     }

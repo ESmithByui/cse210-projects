@@ -20,15 +20,15 @@ public abstract class Activity
         Console.Write("\nHow long, in seconds, would you like for your session? ");
         duration = int.Parse(Console.ReadLine());
 
-        Console.WriteLine("Prepare to begin your session.");
+        Console.Write("\nPrepare to begin your session");
         PauseAnimation(7);
     }
 
     public void DisplayEndMessage()
     {
-        Console.WriteLine("Well done!\n");
-        PauseAnimation(7);
-        Console.WriteLine($"You've completed {duration} seconds of the {activityTitle}");
+        Console.WriteLine("\nWell done!\n");
+        PauseAnimation(3);
+        Console.Write($"You've completed {duration} seconds of the {activityTitle}");
         PauseAnimation(7);
     }
 
@@ -51,6 +51,7 @@ public abstract class Activity
             Thread.Sleep(250);
             Console.Write("\b");
         }
+        Console.Write(" \b");
     }
 
     public void CountDown(int count)
