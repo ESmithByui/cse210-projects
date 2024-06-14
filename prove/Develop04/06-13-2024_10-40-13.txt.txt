@@ -1,0 +1,22 @@
+~~~ 06-13-2024_10-40-13.txt Mindfulness Program ~~~
+> 06-13-2024_10-40-13.txt ~ Program successfully initialized.
+> 06-13-2024_10-41-31 ~ Began Breathing Activity for 120 seconds.
+> 06-13-2024_10-43-39 ~ Finished Breathing Activity after 120 seconds.
+> 06-13-2024_10-44-02 ~ Began Reflection Activity for 60 seconds.
+> 06-13-2024_10-44-15 ~ Chosen prompt is: Think of a time you did something really difficult.
+> 06-13-2024_10-44-15 ~ Question chosen is: What made this time different than other times when you were not as successful?
+> 06-13-2024_10-44-22 ~ Question chosen is: Have you ever done anything like this before?
+> 06-13-2024_10-44-30 ~ Question chosen is: How did you feel when it was complete?
+> 06-13-2024_10-44-37 ~ Question chosen is: What did you learn about yourself through this experience?
+> 06-13-2024_10-44-45 ~ Question chosen is: What is your favorite thing about this experience?
+> 06-13-2024_10-44-52 ~ Question chosen is: Why was this experience meaningful to you?
+> 06-13-2024_10-44-59 ~ Question chosen is: How can you keep this experience in mind in the future?
+> 06-13-2024_10-45-07 ~ Question chosen is: What could you learn from this experience that applies to other situations?
+> 06-13-2024_10-45-18 ~ Finished Reflection Activity after 60 seconds.
+> 06-13-2024_10-45-35 ~ Began Breathing Activity for 20 seconds.
+> 06-13-2024_10-46-03 ~ Finished Breathing Activity after 20 seconds.
+> 06-13-2024_10-46-19 ~ Began Listing Activity for 20 seconds.
+> 06-13-2024_10-46-27 ~ Prompt chosen is: What are personal strengths of yours?
+> 06-13-2024_10-46-58 ~ User listed 9 items.
+> 06-13-2024_10-46-58 ~ Finished Listing Activity after 20 seconds.
+> 06-13-2024_10-47-14 ~ Program successfully exites.

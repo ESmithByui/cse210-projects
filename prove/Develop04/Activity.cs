@@ -6,10 +6,15 @@ public abstract class Activity
     private string activityDescription;
     private int duration = 0;
 
-    public Activity(string title, string description)
+    protected CreateLog log;
+
+    private Random random = new Random();
+
+    public Activity(string title, string description, CreateLog log)
     {
         activityTitle = title;
         activityDescription = description;
+        this.log = log;
     }
 
     public void DisplayStartMessage()
@@ -20,12 +25,16 @@ public abstract class Activity
         Console.Write("\nHow long, in seconds, would you like for your session? ");
         duration = int.Parse(Console.ReadLine());
 
+        log.WriteLog($"Began {activityTitle} for {duration} seconds.");
+
         Console.Write("\nPrepare to begin your session");
         PauseAnimation(7);
     }
 
     public void DisplayEndMessage()
     {
+        log.WriteLog($"Finished {activityTitle} after {duration} seconds.");
+
         Console.WriteLine("\nWell done!\n");
         PauseAnimation(3);
         Console.Write($"You've completed {duration} seconds of the {activityTitle}");
@@ -87,7 +96,7 @@ public abstract class Activity
         
     }
 
-    public string ChooseString(string[] source, List<string> check, Random random)
+    public string ChooseString(string[] source, List<string> check)
     {
         if (source.Length == check.Count)
         {

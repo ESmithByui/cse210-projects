@@ -6,12 +6,15 @@ class Program
 {
     static void Main(string[] args)
     {
+        string timeInitialized = DateTime.Now.ToString("MM-dd-yyyy_H-mm-ss");
+        timeInitialized = $"{timeInitialized}.txt";
+        CreateLog logger = new CreateLog(timeInitialized);
 
         Activity[] activities = new Activity[]
         {
-            new BreathingActivity(),
-            new ReflectionActivity(),
-            new ListingActivity()
+            new BreathingActivity(logger),
+            new ReflectionActivity(logger),
+            new ListingActivity(logger)
         };
 
         string[] menuOptions = new string[]
@@ -23,6 +26,8 @@ class Program
         };
 
         bool chosenQuit = false;
+
+        
 
         do
         {
@@ -53,5 +58,7 @@ class Program
             }
             
         }while (!chosenQuit);
+
+        logger.WriteLog("Program successfully exited.");
     }
 }

@@ -32,9 +32,7 @@ public class ReflectionActivity : Activity
 
     private List<string> usedQuestions = new List<string>();
 
-    private Random random = new Random();
-
-    public ReflectionActivity() : base("Reflection Activity", "This activity will help you reflect on times in your life when you have shown strength and resilience. This will help you recognize the power you have and how you can use it in other aspects of your life.")
+    public ReflectionActivity(CreateLog log) : base("Reflection Activity", "This activity will help you reflect on times in your life when you have shown strength and resilience. This will help you recognize the power you have and how you can use it in other aspects of your life.", log)
     {
 
     }
@@ -45,11 +43,13 @@ public class ReflectionActivity : Activity
 
         Console.Clear();
         Console.WriteLine("Consider the following prompt:\n");
-        string prompt = ChooseString(prompts, usedPrompts, random);
+        string prompt = ChooseString(prompts, usedPrompts);
         Console.WriteLine($"--- {prompt} ---\n\nWhen you have somthing in mind, press enter to continue.");
         Console.ReadLine();
         Console.Write("Now ponder on each of the following questions as they relate to this experience.\nYou may begin in: ");
         CountDown(5);
+
+        log.WriteLog($"Chosen prompt is: {prompt}");
 
         int time = GetDuration();
 
@@ -57,8 +57,11 @@ public class ReflectionActivity : Activity
         {
             Console.Clear();
             Console.WriteLine($"--- {prompt} ---");
-            Console.Write($"{ChooseString(questions, usedQuestions, random)} ");
+            string question = ChooseString(questions, usedQuestions);
+            Console.Write($"{question} ");
             int count = 7;
+
+            log.WriteLog($"Question chosen is: {question}");
 
             if (time < 12)
             {
