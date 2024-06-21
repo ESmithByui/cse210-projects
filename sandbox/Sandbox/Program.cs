@@ -6,78 +6,135 @@ class Program
     {
         Console.WriteLine("Hello Sandbox World!");
         
-        /*List<string> programs = new List<string>();
-
-        programs.Add("Roulette");
-
-        int i = 1;
-        foreach (string program in programs)
-        {
-            Console.WriteLine($"{i}. {program}");
-            i++;
-        }
-
-        Console.Write("Select program to run: ");
-        int userSelection = int.Parse(Console.ReadLine());
-
-        if (userSelection == 1)
-        {
-            Roulette();
-        }*/
-
-
-        Seasoning s1 = new Seasoning();
-        s1.title = "Pepper";
-        s1.quantity = 5;
-
-        Seasoning s2 = new Seasoning();
-        s2.title = "Salt";
-        s2.quantity = 4;
         
-        Popcorn pop = new Popcorn();
-        pop.seasonings.Add(s1);
-        pop.seasonings.Add(s2);
-
-        s1.title = "Paprika";
-        s1.quantity = 27;
-
-        pop.Display();
-        
-    }
-
-    static void Roulette()
-    {
-        Console.Write("Enter how many players: ");
-        int players = int.Parse(Console.ReadLine());
-
-        Random rnd = new Random();
-
-        while (players != 1)
+        House myHouse = new House( new List<Room>
         {
-            Console.WriteLine($"There are {players} players left");
-            int countDown = rnd.Next(1,7);
-            do
+            new Room("Front Room", new List<SmartDevice>{
+                new SmartLight("FR: Light 1"),
+                new SmartLight("FR: Light 2"),
+                new SmartTV("FR: TV"),
+                new SmartHeater("FR: Heater")
+            }),
+            new Room("Living Room", new List<SmartDevice>{
+                new SmartLight("LR: Light 1"),
+                new SmartTV("LR: TV"),
+                new SmartHeater("LR: Heater")
+            }),
+            new Room("Kitchen", new List<SmartDevice>{
+                new SmartLight("K: Light 1"),
+                new SmartLight("K: Light 2")
+            }),
+            new Room("Bedroom", new List<SmartDevice>{
+                new SmartLight("B: Light 1"),
+                new SmartLight("B: Light 2"),
+                new SmartTV("B: TV"),
+                new SmartHeater("B: Heater")
+            })
+        });
+
+        string[] menu = new string[]{
+            "1. Turn Device ON/OFF",
+            "2. Turn All Devices ON in a Room",
+            "3. Turn All Devices OFF in a Room",
+            "4. Turn All Lights ON in a Room",
+            "5. Turn All Lights OFF in a Room",
+            "6. Device Report in a Room",
+            "7. Active Device Report in a Room",
+            "8. Longest Active Decive in a Room",
+            "9. Turn ALL Devices ON",
+            "10. Turn ALL Devices OFF",
+            "11. Turn ALL Lights ON",
+            "12. Turn ALL Lights OFF",
+            "13. Report ALL Devices",
+            "14. Report ALL Active Devices",
+            "15. Quit"
+        };
+
+        bool quit = false;
+
+        do
+        {
+            Console.Clear();
+            foreach(string item in menu)
             {
+                Console.WriteLine(item);
+            }
+            Console.Write("Choose an option: ");
 
-                Console.Write("Type anything to continue: ");
-                Console.ReadLine();
-                if (countDown == 1)
-                {
-                    Console.WriteLine("BANG! You're out of the game.");
-                }
-                else
-                {
-                    Console.WriteLine("Pass to the next player.");
-                }
+            string userInput = Console.ReadLine().ToLower();
 
-                countDown --;
-                
+            switch (userInput)
+            {
+                case "1":
+                    myHouse.RoomDevice();
+                    break;
 
-            } while (countDown != 0);
-            players --;
-            
-        }
+                case "2":
+                    myHouse.RoomAllDevices(true);
+                    break;
 
-        Console.WriteLine("Congratulations! You survived!");
+                case "3":
+                    myHouse.RoomAllDevices(false);
+                    break;
+
+                case "4":
+                    myHouse.RoomAllLights(true);
+                    break;
+
+                case "5":
+                    myHouse.RoomAllLights(false);
+                    break;
+
+                case "6":
+                    myHouse.RoomReport("all");
+                    break;
+
+                case "7":
+                    myHouse.RoomReport("on");
+                    break;
+
+                case "8":
+                    myHouse.RoomReport("longest");
+                    break;
+
+                case "9":
+                    myHouse.AllDeviceToggle(true);
+                    break;
+
+                case "10":
+                    myHouse.AllDeviceToggle(false);
+                    break;
+
+                case "11":
+                    myHouse.AllLightToggle(true);
+                    break;
+
+                case "12":
+                    myHouse.AllLightToggle(false);
+                    break;
+
+                case "13":
+                    myHouse.AllReport("all");
+                    break;
+
+                case "14":
+                    myHouse.AllReport("on");
+                    break;
+
+                case "15":
+                    quit = true;
+                    break;
+
+                default:
+                    Console.WriteLine("Invalid selection. Please try again");
+                    Console.ReadLine();
+                    break;
+            }
+
+            myHouse.RoomLimitChecks(5, "minute");
+
+        }while (!quit);
+
+        
     }
 }
