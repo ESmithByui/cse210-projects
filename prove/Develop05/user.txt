@@ -1,0 +1,27 @@
+User File
+freezeH2O
+2409600
+12178100
+Dragon
+Abyss
+493
+06-26-2024
+1
+Current Goals
+"E","Munzee","Claim something in Munzee","10","True"
+"E","Exercise","Exercise for 10 minutes.","20","False"
+"E","TEST","This is bad","1000000","True"
+"S","Terraria","Play 30 minutes of Terraria.","40","True"
+"S","Art","Make a piece of art.","60","False"
+"S","Minecraft","Finish Minecraft project.","75","False"
+"C","Temple","Go to temple 6 times","15","False","40","0","6"
+Goal Board
+"E","Homework","Get all homework done for the day.","5","False"
+"E","Messages","Check your messages and respond to them.","5","False"
+"E","Greet Someone","Say hello to someone you don't know.","10","False"
+"S","Skill","Learn a new, valuable, skill.","50","False"
+"S","Warframe Level","Level up something to max in Warframe.","60","False"
+"S","Tomorrow's Homework","Complete all homework for today and tomorrow. All assignments that aren't locked.","50","False"
+"C","Videos","Create 3 new videos.","10","False","30","0","3"
+"C","Fruit","Eat 3 different fruits.","10","False","30","0","3"
+"C","Friends","Make 4 new friends.","15","False","40","0","4"
