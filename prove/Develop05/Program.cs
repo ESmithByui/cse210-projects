@@ -74,7 +74,7 @@ class Program
             manager.RefillGoals();
             if (!quit)
             {
-                Console.Write("Press enter to return to menu");
+                Console.Write("\nPress enter to return to menu");
                 Console.ReadKey();
             }
             else
