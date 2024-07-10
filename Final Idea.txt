@@ -1,0 +1,11 @@
+Country
+City
+POI
+- Multiple types of POI
+Names
+
+Hamlet
+Commune
+Village
+Town
+City
