@@ -36,25 +36,25 @@ public class EntMuseum : EntertainmentPOI
         Person owner = GetOwner();
         returnString.Add($"Museum: {GetName()}");
         returnString.Add($"Tier {GetTier()}");
-        returnString.Add($"Owner:\t{owner.GetFirstName()} {owner.GetLastName()}");
-        returnString.Add($"\t\t{owner.GetRace()}, {owner.GetGender()}");
+        returnString.Add($"Owner:{owner.GetFirstName()} {owner.GetLastName()}");
+        returnString.Add($"         {owner.GetRace()}, {owner.GetGender()}");
         returnString.Add("Guides:");
         foreach (Person person in guides)
         {
-            returnString.Add($"\t{person.GetFirstName()} {person.GetLastName()}");
-            returnString.Add($"\t\t{person.GetRace()}, {person.GetGender()}");
+            returnString.Add($"    {person.GetFirstName()} {person.GetLastName()}");
+            returnString.Add($"      {person.GetRace()}, {person.GetGender()}");
         }
         returnString.Add("Day Guards:");
         foreach (Person person in dayGuards)
         {
-            returnString.Add($"\t{person.GetFirstName()} {person.GetLastName()}");
-            returnString.Add($"\t\t{person.GetRace()}, {person.GetGender()}");
+            returnString.Add($"    {person.GetFirstName()} {person.GetLastName()}");
+            returnString.Add($"      {person.GetRace()}, {person.GetGender()}");
         }
         returnString.Add("Night Guards:");
         foreach (Person person in nightGuards)
         {
-            returnString.Add($"\t{person.GetFirstName()} {person.GetLastName()}");
-            returnString.Add($"\t\t{person.GetRace()}, {person.GetGender()}");
+            returnString.Add($"    {person.GetFirstName()} {person.GetLastName()}");
+            returnString.Add($"      {person.GetRace()}, {person.GetGender()}");
         }
         return returnString;
     }

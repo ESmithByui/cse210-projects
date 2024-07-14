@@ -1,27 +1,24 @@
 using System;
 using System.Runtime;
 
-public class ProHospital : ProfeshionalPOI
+public class RelTemple : ReligiousPOI
 {
-    private List<Person> doctors = new List<Person>();
-    private List<Person> nurses = new List<Person>();
+    private List<Person> clerics = new List<Person>();
+    private List<Person> acolytes = new List<Person>();
     private Random random = new Random();
 
-    public ProHospital(string name, Person owner, int tier, PersonGenerator gen) : base(name, owner, tier)
+    public RelTemple(string name, Person owner, int tier, PersonGenerator gen) : base(name, owner, tier)
     {
-        int doctorCount = random.Next(tier +1);
+        int clericCount = random.Next(2, tier + 4);
+        int acolyteCount = random.Next(1, clericCount);
 
-        int nurseCount = random.Next(doctorCount + 1, doctorCount * 2 + 3);
-
-
-        while (doctorCount > doctors.Count)
+        while (clericCount > clerics.Count)
         {
-            doctors.Add(gen.GenRandomPerson());
+            clerics.Add(gen.GenRandomPerson());
         }
-
-        while (nurseCount > nurses.Count)
+        while (acolyteCount > acolytes.Count)
         {
-            nurses.Add(gen.GenRandomPerson());
+            acolytes.Add(gen.GenRandomPerson());
         }
     }
 
@@ -29,18 +26,18 @@ public class ProHospital : ProfeshionalPOI
     {
         List<string> returnString = new List<string>();
         Person owner = GetOwner();
-        returnString.Add($"Hospital: {GetName()}");
+        returnString.Add($"Temple: {GetName()}");
         returnString.Add($"Tier {GetTier()}");
         returnString.Add($"Owner: {owner.GetFirstName()} {owner.GetLastName()}");
         returnString.Add($"         {owner.GetRace()}, {owner.GetGender()}");
-        returnString.Add("Doctors:");
-        foreach (Person person in doctors)
+        returnString.Add("Clerics:");
+        foreach (Person person in clerics)
         {
             returnString.Add($"    {person.GetFirstName()} {person.GetLastName()}");
             returnString.Add($"      {person.GetRace()}, {person.GetGender()}");
         }
-        returnString.Add("Nurses:");
-        foreach (Person person in nurses)
+        returnString.Add("Acolytes:");
+        foreach (Person person in acolytes)
         {
             returnString.Add($"    {person.GetFirstName()} {person.GetLastName()}");
             returnString.Add($"      {person.GetRace()}, {person.GetGender()}");

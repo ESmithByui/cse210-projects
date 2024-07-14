@@ -1,9 +1,9 @@
 using System;
 using System.Runtime;
 
-public class CraftClothier : CraftsmanPOI
+public class TradeBrewery : TradesmanPOI
 {
-    public CraftClothier(string name, Person owner, int tier, PersonGenerator gen) : base(name, owner, tier, gen)
+    public TradeBrewery(string name, Person owner, int tier, PersonGenerator gen) : base(name, owner, tier, gen)
     {
   
     }
@@ -13,7 +13,7 @@ public class CraftClothier : CraftsmanPOI
         List<string> returnString = new List<string>();
         Person owner = GetOwner();
         List<Person> assistants = GetAssistants();
-        returnString.Add($"Clothier: {GetName()}");
+        returnString.Add($"Brewery: {GetName()}");
         returnString.Add($"Tier {GetTier()}");
         returnString.Add($"Owner: {owner.GetFirstName()} {owner.GetLastName()}");
         returnString.Add($"         {owner.GetRace()}, {owner.GetGender()}");

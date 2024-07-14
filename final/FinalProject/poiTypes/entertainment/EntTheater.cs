@@ -29,19 +29,19 @@ public class EntTheater : EntertainmentPOI
         Person owner = GetOwner();
         returnString.Add($"Theater: {GetName()}");
         returnString.Add($"Tier {GetTier()}");
-        returnString.Add($"Owner:\t{owner.GetFirstName()} {owner.GetLastName()}");
-        returnString.Add($"\t\t{owner.GetRace()}, {owner.GetGender()}");
+        returnString.Add($"Owner: {owner.GetFirstName()} {owner.GetLastName()}");
+        returnString.Add($"         {owner.GetRace()}, {owner.GetGender()}");
         returnString.Add("Staff:");
         foreach (Person person in staff)
         {
-            returnString.Add($"\t{person.GetFirstName()} {person.GetLastName()}");
-            returnString.Add($"\t\t{person.GetRace()}, {person.GetGender()}");
+            returnString.Add($"    {person.GetFirstName()} {person.GetLastName()}");
+            returnString.Add($"      {person.GetRace()}, {person.GetGender()}");
         }
         returnString.Add("Vendors:");
         foreach (Person person in vendors)
         {
-            returnString.Add($"\t{person.GetFirstName()} {person.GetLastName()}");
-            returnString.Add($"\t\t{person.GetRace()}, {person.GetGender()}");
+            returnString.Add($"    {person.GetFirstName()} {person.GetLastName()}");
+            returnString.Add($"      {person.GetRace()}, {person.GetGender()}");
         }
         return returnString;
     }

@@ -1,19 +1,18 @@
 using System;
 using System.Runtime;
 
-public class ProGuildhouse : ProfeshionalPOI
+public class SchLibrary : ScholarlyPOI
 {
-    private List<Person> staff = new List<Person>();
+    private List<Person> librarians = new List<Person>();
     private Random random = new Random();
 
-    public ProGuildhouse(string name, Person owner, int tier, PersonGenerator gen) : base(name, owner, tier)
+    public SchLibrary(string name, Person owner, int tier, PersonGenerator gen) : base(name, owner, tier)
     {
-        int staffCount = random.Next(2, tier +2);
+        int librarianCount = random.Next(1, tier + 3);
 
-
-        while (staffCount > staff.Count)
+        while (librarianCount > librarians.Count)
         {
-            staff.Add(gen.GenRandomPerson());
+            librarians.Add(gen.GenRandomPerson());
         }
     }
 
@@ -21,12 +20,12 @@ public class ProGuildhouse : ProfeshionalPOI
     {
         List<string> returnString = new List<string>();
         Person owner = GetOwner();
-        returnString.Add($"Guildhouse: {GetName()}");
+        returnString.Add($"Library: {GetName()}");
         returnString.Add($"Tier {GetTier()}");
         returnString.Add($"Owner: {owner.GetFirstName()} {owner.GetLastName()}");
         returnString.Add($"         {owner.GetRace()}, {owner.GetGender()}");
-        returnString.Add("Staff:");
-        foreach (Person person in staff)
+        returnString.Add("Librarians:");
+        foreach (Person person in librarians)
         {
             returnString.Add($"    {person.GetFirstName()} {person.GetLastName()}");
             returnString.Add($"      {person.GetRace()}, {person.GetGender()}");

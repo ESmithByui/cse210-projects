@@ -1,19 +1,19 @@
 using System;
 using System.Runtime;
 
-public class ProGuildhouse : ProfeshionalPOI
+public class MercMarketplace : MercantilePOI
 {
-    private List<Person> staff = new List<Person>();
+    private List<Person> vendors = new List<Person>();
     private Random random = new Random();
 
-    public ProGuildhouse(string name, Person owner, int tier, PersonGenerator gen) : base(name, owner, tier)
+    public MercMarketplace(string name, Person owner, int tier, PersonGenerator gen) : base(name, owner, tier)
     {
-        int staffCount = random.Next(2, tier +2);
+        int vendorCount = random.Next(tier, tier * 2 + 1);
 
 
-        while (staffCount > staff.Count)
+        while (vendorCount > vendors.Count)
         {
-            staff.Add(gen.GenRandomPerson());
+            vendors.Add(gen.GenRandomPerson());
         }
     }
 
@@ -21,12 +21,12 @@ public class ProGuildhouse : ProfeshionalPOI
     {
         List<string> returnString = new List<string>();
         Person owner = GetOwner();
-        returnString.Add($"Guildhouse: {GetName()}");
+        returnString.Add($"Marketplace: {GetName()}");
         returnString.Add($"Tier {GetTier()}");
         returnString.Add($"Owner: {owner.GetFirstName()} {owner.GetLastName()}");
         returnString.Add($"         {owner.GetRace()}, {owner.GetGender()}");
-        returnString.Add("Staff:");
-        foreach (Person person in staff)
+        returnString.Add("Vendors:");
+        foreach (Person person in vendors)
         {
             returnString.Add($"    {person.GetFirstName()} {person.GetLastName()}");
             returnString.Add($"      {person.GetRace()}, {person.GetGender()}");

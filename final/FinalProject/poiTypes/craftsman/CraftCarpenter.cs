@@ -15,15 +15,15 @@ public class CraftCarpenter : CraftsmanPOI
         List<Person> assistants = GetAssistants();
         returnString.Add($"Carpenter: {GetName()}");
         returnString.Add($"Tier {GetTier()}");
-        returnString.Add($"Owner:\t{owner.GetFirstName()} {owner.GetLastName()}");
-        returnString.Add($"\t\t{owner.GetRace()}, {owner.GetGender()}");
+        returnString.Add($"Owner: {owner.GetFirstName()} {owner.GetLastName()}");
+        returnString.Add($"         {owner.GetRace()}, {owner.GetGender()}");
         if (assistants.Count > 0)
         {
             returnString.Add("Assistants:");
             foreach (Person person in assistants)
             {
-                returnString.Add($"\t{person.GetFirstName()} {person.GetLastName()}");
-                returnString.Add($"\t\t{person.GetRace()}, {person.GetGender()}");
+                returnString.Add($"    {person.GetFirstName()} {person.GetLastName()}");
+                returnString.Add($"      {person.GetRace()}, {person.GetGender()}");
             }
         }
         return returnString;
