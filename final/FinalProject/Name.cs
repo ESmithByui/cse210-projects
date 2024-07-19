@@ -70,25 +70,25 @@ public class Name
         LoadFile(nameFiles[0], humanLastNames);
         LoadFile(nameFiles[1], humanMaleFirstNames);
         LoadFile(nameFiles[2], humanFemaleFirstNames);
-        //LoadFile(nameFiles[3], dwarfLastNames);
-        //LoadFile(nameFiles[4], dwarfMaleFirstNames);
-        //LoadFile(nameFiles[5], dwarfFemaleFirstNames);
-        //LoadFile(nameFiles[6], elfLastNames);
-        //LoadFile(nameFiles[7], elfMaleFirstNames);
-        //LoadFile(nameFiles[8], elfFemaleFirstNames);
-        //LoadFile(nameFiles[9], halflingLastNames);
-        //LoadFile(nameFiles[10], halflingMaleFirstNames);
-        //LoadFile(nameFiles[11], halflingFemaleFirstNames);
-        //LoadFile(nameFiles[12], dragonbornLastNames);
-        //LoadFile(nameFiles[13], dragonbornMaleFirstNames);
-        //LoadFile(nameFiles[14], dragonbornFemaleFirstNames);
-        //LoadFile(nameFiles[15], gnomeLastNames);
-        //LoadFile(nameFiles[16], gnomeMaleFirstNames);
-        //LoadFile(nameFiles[17], gnomeFemaleFirstNames);
-        //LoadFile(nameFiles[18], orcMaleFirstNames);
-        //LoadFile(nameFiles[19], orcFemaleFirstNames);
-        //LoadFile(nameFiles[20], tieflingMaleFirstNames);
-        //LoadFile(nameFiles[21], tieflingFemaleFirstNames);
+        LoadFile(nameFiles[3], dwarfLastNames);
+        LoadFile(nameFiles[4], dwarfMaleFirstNames);
+        LoadFile(nameFiles[5], dwarfFemaleFirstNames);
+        LoadFile(nameFiles[6], elfLastNames);
+        LoadFile(nameFiles[7], elfMaleFirstNames);
+        LoadFile(nameFiles[8], elfFemaleFirstNames);
+        LoadFile(nameFiles[9], halflingLastNames);
+        LoadFile(nameFiles[10], halflingMaleFirstNames);
+        LoadFile(nameFiles[11], halflingFemaleFirstNames);
+        LoadFile(nameFiles[12], dragonbornLastNames);
+        LoadFile(nameFiles[13], dragonbornMaleFirstNames);
+        LoadFile(nameFiles[14], dragonbornFemaleFirstNames);
+        LoadFile(nameFiles[15], gnomeLastNames);
+        LoadFile(nameFiles[16], gnomeMaleFirstNames);
+        LoadFile(nameFiles[17], gnomeFemaleFirstNames);
+        LoadFile(nameFiles[18], orcMaleFirstNames);
+        LoadFile(nameFiles[19], orcFemaleFirstNames);
+        LoadFile(nameFiles[20], tieflingMaleFirstNames);
+        LoadFile(nameFiles[21], tieflingFemaleFirstNames);
     }
 
     public void LoadFile(string fileName, List<string> returnList)
@@ -109,8 +109,14 @@ public class Name
 
     public string GetRace()
     {
-        return "Human";
-        //return races[random.Next(races.Length)];
+        string race = "Human";
+
+        if (random.Next(3) == 0)
+        {
+            race = races[random.Next(races.Length)];
+        }
+        
+        return race;
     }
 
     public string GetGender()
