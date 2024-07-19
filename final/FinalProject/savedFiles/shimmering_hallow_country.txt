@@ -1,0 +1,3559 @@
+Country: Shimmering Hallow
+Ruler: Salazar Ulmokina
+         Human, M
+Population: 81758
+Capital:
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+|   City: Gloomy Basin
+|   Leader: Salazar Ulmokina
+|             Human, M
+|   Population: 18401
+|   Points of Interest:
+|   ___________________________
+|   -   Palace: Gloomy Basin Palace
+|   -   Tier 6
+|   -   Owner: Salazar Ulmokina
+|   -            Human, M
+|   -   Guards:
+|   -       Katernin Lao
+|   -         Human, F
+|   -       Long Kung
+|   -         Human, M
+|   -       Faugar Marivaldi
+|   -         Human, M
+|   -       Grim Shin
+|   -         Human, M
+|   -       Aoth Evenwood
+|   -         Human, M
+|   -       Sergor Anskuld
+|   -         Human, M
+|   -       Tessele Chergoba
+|   -         Human, F
+|   -       Romero Huang
+|   -         Human, M
+|   -       Geth Mei
+|   -         Human, M
+|   -       Kosef Hahpet
+|   -         Human, M
+|   -       Madislak Brightwood
+|   -         Human, M
+|   -       Lei Pashar
+|   -         Human, F
+|   -       Malark Mostana
+|   -         Human, M
+|   -       Jhessail Hahpet
+|   -         Human, F
+|   -       Zasheir Marsk
+|   -         Human, M
+|   -       Kethoth Mei
+|   -         Human, M
+|   -       Ehput-Ki Chernin
+|   -         Human, M
+|   -       Nulara Astorio
+|   -         Human, F
+|   ___________________________
+|   _____________________
+|   -   Inn: Gloomy Basin Inn
+|   -   Tier 6
+|   -   Owner: Urth Kung
+|   -            Human, M
+|   -   Staff:
+|   -       Long Ulmokina
+|   -         Human, M
+|   _____________________
+|   ____________________________
+|   -   Blacksmith: Nuanced Smithing
+|   -   Tier 6
+|   -   Owner: Bareris Nathandem
+|   -            Human, M
+|   -   Assistants:
+|   -       Bai Mei
+|   -         Human, F
+|   -       Arizima Domine
+|   -         Human, F
+|   ____________________________
+|   _________________________________________
+|   -   General Store: Gloomy Basin General Store
+|   -   Tier 6
+|   -   Owner: Cefrey Helder
+|   -            Human, F
+|   -   Staff:
+|   -       Kosef Stormwind
+|   -         Human, M
+|   -       Bardeid Brightwood
+|   -         Human, M
+|   -       Ceidil Sum
+|   -         Human, F
+|   -       Stor Bersk
+|   -         Human, M
+|   -       Rimardo Dotsk
+|   -         Human, M
+|   -       Ehput-Ki Jassan
+|   -         Human, M
+|   _________________________________________
+|   ___________________________________
+|   -   Guildhouse: Gloomy Basin Guildhouse
+|   -   Tier 6
+|   -   Owner: Faila Ling
+|   -            Human, F
+|   -   Staff:
+|   -       Ceidil Khalid
+|   -         Human, F
+|   -       Khemed Pin
+|   -         Human, M
+|   -       Zasheir Sum
+|   -         Human, M
+|   -       Thola Windriver
+|   -         Human, F
+|   -       Meng Ramondo
+|   -         Human, M
+|   ___________________________________
+|   ______________________
+|   -   Tavern: Nuanced Dragon
+|   -   Tier 6
+|   -   Owner: Imzel Pisacar
+|   -            Human, F
+|   -   Staff:
+|   -       Meilil Pisacar
+|   -         Human, F
+|   -       Luisa Pisacar
+|   -         Human, F
+|   -       Ander Pisacar
+|   -         Human, M
+|   -       Vonda Pisacar
+|   -         Human, F
+|   -       Kanithar Pisacar
+|   -         Human, M
+|   -       Chi Pisacar
+|   -         Human, M
+|   -       Chathi Pisacar
+|   -         Human, F
+|   -       Kanithar Pisacar
+|   -         Human, M
+|   -       Zasheida Pisacar
+|   -         Human, F
+|   ______________________
+|   _____________________
+|   -   Jail: Jassan Jail
+|   -   Tier 6
+|   -   Owner: Lei Jassan
+|   -            Human, F
+|   -   Guards:
+|   -       Kosef Chien
+|   -         Human, M
+|   -       Lureene Khalid
+|   -         Human, F
+|   -       Meng Marivaldi
+|   -         Human, M
+|   -       Olma Ulmokina
+|   -         Human, F
+|   -       Thazar-De Nemetsk
+|   -         Human, M
+|   -       Romero Marsk
+|   -         Human, M
+|   -       Nephis Pashar
+|   -         Human, F
+|   -       Salazar Dumein
+|   -         Human, M
+|   _____________________
+|   _________________________
+|   -   Brewery: Blissful Brewery
+|   -   Tier 6
+|   -   Owner: Qiao Pin
+|   -            Human, F
+|   -   Assistants:
+|   -       Qiao Falone
+|   -         Human, F
+|   -       Jiang Domine
+|   -         Human, M
+|   _________________________
+|   ______________________
+|   -   Brewery: Leaky Brewery
+|   -   Tier 6
+|   -   Owner: Luisa Dumein
+|   -            Human, F
+|   -   Assistants:
+|   -       Pavel Tan
+|   -         Human, M
+|   ______________________
+|   ______________
+|   -   Park: Kao Park
+|   -   Tier: 6
+|   ______________
+|   _________________________
+|   -   Scrollshop: Fancy Scrolls
+|   -   Tier 6
+|   -   Owner: Umara Wan
+|   -            Human, F
+|   _________________________
+|   _____________________
+|   -   Tavern: Pretty Bunny
+|   -   Tier 6
+|   -   Owner: Zasheida Fezim
+|   -            Human, F
+|   -   Staff:
+|   -       Westra Dotsk
+|   -         Human, F
+|   -       Shaumar Helder
+|   -         Human, M
+|   -       Dona Lackman
+|   -         Human, F
+|   -       Luth Ling
+|   -         Human, M
+|   -       Hulmarra Nemetsk
+|   -         Human, F
+|   _____________________
+|   _____________________
+|   -   Library: Kung Library
+|   -   Tier 6
+|   -   Owner: Urthur Kung
+|   -            Human, M
+|   -   Librarians:
+|   -       Jandar Astorio
+|   -         Human, M
+|   _____________________
+|   ________________________
+|   -   General Store: Mostana's
+|   -   Tier 6
+|   -   Owner: Imzel Mostana
+|   -            Human, F
+|   -   Staff:
+|   -       Nulara Calabra
+|   -         Human, F
+|   ________________________
+|   _________________________
+|   -   Scrollshop: Dopey Scrolls
+|   -   Tier 6
+|   -   Owner: Jalana Ankhalab
+|   -            Human, F
+|   _________________________
+|   ___________________________________________________
+|   -   Guildhouse: Gloomy Basin Guildhouse, Huang's Branch
+|   -   Tier 6
+|   -   Owner: Fai Huang
+|   -            Human, M
+|   -   Staff:
+|   -       Rowan Kung
+|   -         Human, F
+|   -       Navarra Ankhalab
+|   -         Human, F
+|   -       Chao Hornraven
+|   -         Human, F
+|   ___________________________________________________
+|   ________________________
+|   -   Temple: Wonderful Temple
+|   -   Tier 7
+|   -   Owner: Shevarra Ulmokina
+|   -            Human, F
+|   -   Clerics:
+|   -       Bai Ulmokina
+|   -         Human, F
+|   -       Qiao Buckman
+|   -         Human, F
+|   -       Vladislak Fezim
+|   -         Human, M
+|   -       Luisa Fezim
+|   -         Human, F
+|   -       Esvele Kulenov
+|   -         Human, F
+|   -       Luth Dotsk
+|   -         Human, M
+|   -       Haseid Falone
+|   -         Human, M
+|   -       Tammith Stayanoga
+|   -         Human, F
+|   -       Fai Sepret
+|   -         Human, M
+|   -       Evendur Chergoba
+|   -         Human, M
+|   -   Acolytes:
+|   -       Kethoth Dundragon
+|   -         Human, M
+|   -       Kerri Ankhalab
+|   -         Human, F
+|   -       Shandri Anskuld
+|   -         Human, F
+|   -       Alethra Kulenov
+|   -         Human, F
+|   -       Sefris Huang
+|   -         Human, F
+|   -       Vonda Mostana
+|   -         Human, F
+|   ________________________
+|   _____________________
+|   -   Inn: Sturdy Bunny
+|   -   Tier 6
+|   -   Owner: Arveene Chien
+|   -            Human, F
+|   -   Staff:
+|   -       Arveene Lao
+|   -         Human, F
+|   -       Mival Uuthrakt
+|   -         Human, M
+|   -       Gorstag Pisacar
+|   -         Human, M
+|   -       Randal Huang
+|   -         Human, M
+|   -       Shandri Windriver
+|   -         Human, F
+|   -       Shaumar Helder
+|   -         Human, M
+|   _____________________
+|   ________________________
+|   -   Museum: Hornraven Museum
+|   -   Tier 6
+|   -   Owner:Sergor Hornraven
+|   -            Human, M
+|   -   Guides:
+|   -       Pavel Tallstag
+|   -         Human, M
+|   -   Day Guards:
+|   -       Urthur Kung
+|   -         Human, M
+|   -       Fyevarra Khalid
+|   -         Human, F
+|   -       Balama Kao
+|   -         Human, F
+|   -       Hulmarra Ankhalab
+|   -         Human, F
+|   -       Quara Huang
+|   -         Human, F
+|   -       Westra Sum
+|   -         Human, F
+|   -   Night Guards:
+|   -       Mival Anskuld
+|   -         Human, M
+|   -       Mehmen Ulmokina
+|   -         Human, M
+|   ________________________
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Cities:
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+|   City: Blooming Village
+|   Leader: Khemed Ankhalab
+|             Human, M
+|   Population: 13529
+|   Points of Interest:
+|   ______________________
+|   -   Manor: Ankhalab Manor
+|   -   Tier 5
+|   -   Owner: Khemed Ankhalab
+|   -            Human, M
+|   -   Guards:
+|   -       Meilil Tallstag
+|   -         Human, F
+|   -       Kerri Dundragon
+|   -         Human, F
+|   -       Anton Pashar
+|   -         Human, M
+|   -       An Pin
+|   -         Human, M
+|   -       Pieron Shin
+|   -         Human, M
+|   -       Orel Evenwood
+|   -         Human, M
+|   -       Orel Hahpet
+|   -         Human, M
+|   -       Atala Ankhalab
+|   -         Human, F
+|   -       Orel Chernin
+|   -         Human, M
+|   -       Rowan Domine
+|   -         Human, F
+|   ______________________
+|   _________________________
+|   -   Inn: Blooming Village Inn
+|   -   Tier 5
+|   -   Owner: Kara Nathandem
+|   -            Human, F
+|   -   Staff:
+|   -       Aoth Jassan
+|   -         Human, M
+|   _________________________
+|   _____________________________
+|   -   Blacksmith: Blissful Smithing
+|   -   Tier 5
+|   -   Owner: Evendur Sepret
+|   -            Human, M
+|   -   Assistants:
+|   -       Bardeid Buckman
+|   -         Human, M
+|   -       Olga Agosto
+|   -         Human, F
+|   -       Helm Sepret
+|   -         Human, M
+|   _____________________________
+|   _____________________________________________
+|   -   General Store: Blooming Village General Store
+|   -   Tier 5
+|   -   Owner: Kethoth Dundragon
+|   -            Human, M
+|   -   Staff:
+|   -       Pieron Lackman
+|   -         Human, M
+|   -       Jun Dotsk
+|   -         Human, M
+|   -       Glar Calabra
+|   -         Human, M
+|   -       Malcer Tan
+|   -         Human, M
+|   -       Alethra Greycastle
+|   -         Human, F
+|   _____________________________________________
+|   _______________________________________
+|   -   Guildhouse: Blooming Village Guildhouse
+|   -   Tier 5
+|   -   Owner: Luisa Chernin
+|   -            Human, F
+|   -   Staff:
+|   -       Bareris Greycastle
+|   -         Human, M
+|   -       Immith Stayanoga
+|   -         Human, F
+|   -       Haseid Mei
+|   -         Human, M
+|   _______________________________________
+|   _________________________
+|   -   Alchemist: Spiffy Potions
+|   -   Tier 5
+|   -   Owner: Chao Ramondo
+|   -            Human, F
+|   -   Assistants:
+|   -       Cefrey Basha
+|   -         Human, F
+|   -       Dona Astorio
+|   -         Human, F
+|   -       Romero Dumein
+|   -         Human, M
+|   -       Jun Astorio
+|   -         Human, M
+|   -       Qiao Sepret
+|   -         Human, F
+|   _________________________
+|   ____________________
+|   -   Library: Tan Library
+|   -   Tier 5
+|   -   Owner: Grim Tan
+|   -            Human, M
+|   -   Librarians:
+|   -       Yasheira Pisacar
+|   -         Human, F
+|   -       Urth Kulenov
+|   -         Human, M
+|   -       Mival Chernin
+|   -         Human, M
+|   -       Mei Starag
+|   -         Human, F
+|   -       Kethra Chien
+|   -         Human, F
+|   ____________________
+|   __________________________________
+|   -   Marketplace: Marivaldi Marketplace
+|   -   Tier 5
+|   -   Owner: Geth Marivaldi
+|   -            Human, M
+|   -   Vendors:
+|   -       Faila Huang
+|   -         Human, F
+|   -       Yasheira Domine
+|   -         Human, F
+|   -       Selise Bersk
+|   -         Human, F
+|   -       Kerri Ankhalab
+|   -         Human, F
+|   -       Sudeiman Dotsk
+|   -         Human, M
+|   -       Jalana Ankhalab
+|   -         Human, F
+|   -       Immith Kung
+|   -         Human, F
+|   -       Seipora Rein
+|   -         Human, F
+|   __________________________________
+|   ________________________
+|   -   General Store: Calabra's
+|   -   Tier 5
+|   -   Owner: Romero Calabra
+|   -            Human, M
+|   -   Staff:
+|   -       Westra Amblecrown
+|   -         Human, F
+|   -       Meng Ling
+|   -         Human, M
+|   -       Murithi Tallstag
+|   -         Human, F
+|   ________________________
+|   ____________________
+|   -   Shrine: Tasty Shrine
+|   -   Tier 5
+|   ____________________
+|   _______________________
+|   -   Inn: Spiffy Minotaur
+|   -   Tier 5
+|   -   Owner: Lureene Dyernina
+|   -            Human, F
+|   -   Chefs:
+|   -       Miri Khalid
+|   -         Human, F
+|   -       Mumed Brightwood
+|   -         Human, M
+|   -       Cefrey Basha
+|   -         Human, F
+|   -       Selise Chernin
+|   -         Human, F
+|   -   Waiters:
+|   -       Aseir Agosto
+|   -         Human, M
+|   -       Murithi Hahpet
+|   -         Human, F
+|   -       Stedd Hahpet
+|   -         Human, M
+|   -       Cefrey Dyernina
+|   -         Human, F
+|   -       Shandri Sepret
+|   -         Human, F
+|   -       Marta Marsk
+|   -         Human, F
+|   -       Yasheira Mei
+|   -         Human, F
+|   -       Seipora Dotsk
+|   -         Human, F
+|   -       Darvin Dyernina
+|   -         Human, M
+|   _______________________
+|   _____________________
+|   -   Jail: Bersk Jail
+|   -   Tier 6
+|   -   Owner: Romero Bersk
+|   -            Human, M
+|   -   Guards:
+|   -       Pavel Stormwind
+|   -         Human, M
+|   -       Mehmen Windriver
+|   -         Human, M
+|   -       Stor Chernin
+|   -         Human, M
+|   -       Marcon Huang
+|   -         Human, M
+|   -       Bardeid Hornraven
+|   -         Human, M
+|   -       Nephis Stormwind
+|   -         Human, F
+|   -       Igan Khalid
+|   -         Human, M
+|   -       Fai Marsk
+|   -         Human, M
+|   _____________________
+|   _________________________
+|   -   Wizard Tower: Nutty Tower
+|   -   Tier 5
+|   -   Owner: Olma Lackman
+|   -            Human, F
+|   _________________________
+|   _____________________________
+|   -   Apothecary: Spiffy Apothecary
+|   -   Tier 5
+|   -   Owner: Sefris Basha
+|   -            Human, F
+|   -   Assistants:
+|   -       Amafrey Pin
+|   -         Human, F
+|   -       Zasheida Ulmokina
+|   -         Human, F
+|   -       Romero Chien
+|   -         Human, M
+|   _____________________________
+|   ___________________________________________
+|   -   Hospital: Blooming Village General Hospital
+|   -   Tier 5
+|   -   Owner: Randal Buckman
+|   -            Human, M
+|   -   Doctors:
+|   -   Nurses:
+|   -       Pavel Mei
+|   -         Human, M
+|   -       Pavel Murnyethara
+|   -         Human, M
+|   ___________________________________________
+|   ____________________________
+|   -   Apothecary: Leaky Apothecary
+|   -   Tier 6
+|   -   Owner: Darvin Hornraven
+|   -            Human, M
+|   -   Assistants:
+|   -       Tai Chien
+|   -         Human, F
+|   ____________________________
+|   _____________________________
+|   -   Cemetary: Old Cemetary
+|   -   Tier 5
+|   -   Grave Keeper: Gorstag Calabra
+|   -                   Human, M
+|   _____________________________
+|   _______________________________________
+|   -   Brothel: Blooming Village Thieves Guild
+|   -   Tier 5
+|   -   Owner: Tana Shin
+|   -            Human, F
+|   _______________________________________
+|   ___________________
+|   -   Park: Ankhalab Park
+|   -   Tier: 5
+|   ___________________
+|   _________________________
+|   -   Stable: Wonderful Stables
+|   -   Tier 5
+|   -   Owner: Meilil Sepret
+|   -            Human, F
+|   -   Assistants:
+|   -       Jasmal Kung
+|   -         Human, F
+|   _________________________
+|   ______________________
+|   -   Temple: Dopey Temple
+|   -   Tier 5
+|   -   Owner: Orel Ramondo
+|   -            Human, M
+|   -   Clerics:
+|   -       Hama Bersk
+|   -         Human, F
+|   -       Murithi Marivaldi
+|   -         Human, F
+|   -       Tessele Nemetsk
+|   -         Human, F
+|   -       Betha Mostana
+|   -         Human, F
+|   -       Lian Sum
+|   -         Human, M
+|   -       Pieron Agosto
+|   -         Human, M
+|   -       Salazar Amblecrown
+|   -         Human, M
+|   -   Acolytes:
+|   -       Miri Lackman
+|   -         Human, F
+|   -       Imzel Marsk
+|   -         Human, F
+|   -       Tai Shin
+|   -         Human, F
+|   -       Bor Lao
+|   -         Human, M
+|   -       Grigor Tallstag
+|   -         Human, M
+|   -       Randal Pisacar
+|   -         Human, M
+|   ______________________
+|   _________________________
+|   -   General Store: Evenwood's
+|   -   Tier 5
+|   -   Owner: Malark Evenwood
+|   -            Human, M
+|   -   Staff:
+|   -       Luth Shemov
+|   -         Human, M
+|   -       Jhessail Hornraven
+|   -         Human, F
+|   -       Sudeiman Dyernina
+|   -         Human, M
+|   -       Igan Ramondo
+|   -         Human, M
+|   _________________________
+|   _______________________________________________________
+|   -   Barracks: Blooming Village Barracks, Hornraven Division
+|   -   Tier 5
+|   -   Owner: Dona Hornraven
+|   -            Human, F
+|   -   Guards:
+|   -       Nulara Jassan
+|   -         Human, F
+|   -       Esvele Basha
+|   -         Human, F
+|   -       Rimardo Dyernina
+|   -         Human, M
+|   -       Murithi Sepret
+|   -         Human, F
+|   -       Tana Bersk
+|   -         Human, F
+|   -       Yuldra Ankhalab
+|   -         Human, F
+|   -       Igan Marivaldi
+|   -         Human, M
+|   -       Cefrey Kung
+|   -         Human, F
+|   -       Ehput-Ki Fezim
+|   -         Human, M
+|   -       Amafrey Calabra
+|   -         Human, F
+|   -       Meng Helder
+|   -         Human, M
+|   -       Mehmen Mei
+|   -         Human, M
+|   -       Luisa Marivaldi
+|   -         Human, F
+|   -       Aoth Brightwood
+|   -         Human, M
+|   -       Luisa Hornraven
+|   -         Human, F
+|   -       Luth Ankhalab
+|   -         Human, M
+|   -       Dundragon Rein
+|   -         Human, M
+|   -       Long Stormwind
+|   -         Human, M
+|   -       Orel Sum
+|   -         Human, M
+|   _______________________________________________________
+|   ______________________________
+|   -   Marketplace: Chien Marketplace
+|   -   Tier 5
+|   -   Owner: Betha Chien
+|   -            Human, F
+|   -   Vendors:
+|   -       Mara Kung
+|   -         Human, F
+|   -       Mara Falone
+|   -         Human, F
+|   -       Tammith Shin
+|   -         Human, F
+|   -       Bai Lao
+|   -         Human, F
+|   -       Ramas Helder
+|   -         Human, M
+|   -       Arveene Fezim
+|   -         Human, F
+|   -       Nulara Chergoba
+|   -         Human, F
+|   -       Esvele Brightwood
+|   -         Human, F
+|   -       Imzel Greycastle
+|   -         Human, F
+|   -       Quara Shemov
+|   -         Human, F
+|   ______________________________
+|   _______________________________________
+|   -   Courthouse: Blooming Village Courthouse
+|   -   Tier 5
+|   -   Owner: Zasheir Huang
+|   -            Human, M
+|   -   Guards:
+|   -       Jhessail Sum
+|   -         Human, F
+|   -       Jiang Helder
+|   -         Human, M
+|   -       Khemed Tallstag
+|   -         Human, M
+|   -       Olga Chien
+|   -         Human, F
+|   _______________________________________
+|   _____________________________________________________
+|   -   Barracks: Blooming Village Barracks, Ramondo Division
+|   -   Tier 5
+|   -   Owner: Darvin Ramondo
+|   -            Human, M
+|   -   Guards:
+|   -       Bardeid Dotsk
+|   -         Human, M
+|   -       Lander Evenwood
+|   -         Human, M
+|   -       Cefrey Astorio
+|   -         Human, F
+|   -       Jia Lao
+|   -         Human, F
+|   -       Anton Dundragon
+|   -         Human, M
+|   -       Zasheir Brightwood
+|   -         Human, M
+|   -       Helm Huang
+|   -         Human, M
+|   -       Zolis Pisacar
+|   -         Human, F
+|   -       Helm Buckman
+|   -         Human, M
+|   -       Kanithar Greycastle
+|   -         Human, M
+|   -       Kethra Dumein
+|   -         Human, F
+|   -       Fai Buckman
+|   -         Human, M
+|   -       Jasmal Stayanoga
+|   -         Human, F
+|   -       Wen Tan
+|   -         Human, M
+|   -       Mumed Mostana
+|   -         Human, M
+|   -       Tessele Falone
+|   -         Human, F
+|   _____________________________________________________
+|   ____________________________
+|   -   Cemetary: Wonderful Cemetary
+|   -   Tier 6
+|   -   Grave Keeper: Immith Jassan
+|   -                   Human, F
+|   ____________________________
+|   ______________________
+|   -   Inn: Blissful Grove
+|   -   Tier 5
+|   -   Owner: Sergor Chergoba
+|   -            Human, M
+|   -   Staff:
+|   -       Shan Chergoba
+|   -         Human, M
+|   ______________________
+|   __________________________________________________________
+|   -   Mage House: Blooming Village Mage Guild, Dyernina's Branch
+|   -   Tier 5
+|   -   Owner: Ralmevik Dyernina
+|   -            Human, M
+|   -   Staff:
+|   -       Tessele Pashar
+|   -         Human, F
+|   -       Bardeid Wan
+|   -         Human, M
+|   -       Shevarra Windriver
+|   -         Human, F
+|   -       Urthur Evenwood
+|   -         Human, M
+|   -       Meng Murnyethara
+|   -         Human, M
+|   -       Jiang Sum
+|   -         Human, M
+|   __________________________________________________________
+|   ________________________
+|   -   Theater: Pisacar Theater
+|   -   Tier 5
+|   -   Owner: Kosef Pisacar
+|   -            Human, M
+|   -   Staff:
+|   -       Kethra Lao
+|   -         Human, F
+|   -       Bareris Stormwind
+|   -         Human, M
+|   -       Umbero Chernin
+|   -         Human, M
+|   -       So-Kehur Iltazyara
+|   -         Human, M
+|   -   Vendors:
+|   -       Imzel Stormwind
+|   -         Human, F
+|   -       Yasheira Fezim
+|   -         Human, F
+|   ________________________
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+|   Town: Sleepy Mesa
+|   Leader: Shandri Chernin
+|             Human, F
+|   Population: 3950
+|   Points of Interest:
+|   ________________________
+|   -   Manor: Chernin Manor
+|   -   Tier 4
+|   -   Owner: Shandri Chernin
+|   -            Human, F
+|   -   Guards:
+|   -       Dundragon Amblecrown
+|   -         Human, M
+|   -       Ander Wan
+|   -         Human, M
+|   -       Luisa Greycastle
+|   -         Human, F
+|   -       Romero Kung
+|   -         Human, M
+|   -       Glar Pin
+|   -         Human, M
+|   -       Cefrey Ramondo
+|   -         Human, F
+|   -       Arizima Tallstag
+|   -         Human, F
+|   ________________________
+|   __________________
+|   -   Tavern: Leaky Cove
+|   -   Tier 4
+|   -   Owner: Geth Ling
+|   -            Human, M
+|   -   Staff:
+|   -       Tai Ling
+|   -         Human, F
+|   -       Tana Ling
+|   -         Human, F
+|   -       Alethra Ling
+|   -         Human, F
+|   -       Khemed Ling
+|   -         Human, M
+|   -       Thola Ling
+|   -         Human, F
+|   -       Jiang Ling
+|   -         Human, M
+|   -       Jun Ling
+|   -         Human, M
+|   __________________
+|   ___________________________
+|   -   Blacksmith: Pretty Smithing
+|   -   Tier 4
+|   -   Owner: Madislak Domine
+|   -            Human, M
+|   -   Assistants:
+|   -       Quara Dyernina
+|   -         Human, F
+|   -       Mival Stayanoga
+|   -         Human, M
+|   ___________________________
+|   ________________________________________
+|   -   General Store: Sleepy Mesa General Store
+|   -   Tier 4
+|   -   Owner: Yasheira Kung
+|   -            Human, F
+|   -   Staff:
+|   -       Lureene Ramondo
+|   -         Human, F
+|   -       Marcon Shemov
+|   -         Human, M
+|   -       Umbero Dotsk
+|   -         Human, M
+|   -       Mival Buckman
+|   -         Human, M
+|   ________________________________________
+|   ______________________
+|   -   Tavern: Careful Cove
+|   -   Tier 4
+|   -   Owner: Helm Brightwood
+|   -            Human, M
+|   -   Staff:
+|   -       Lureene Domine
+|   -         Human, F
+|   -       Marta Pashar
+|   -         Human, F
+|   -       Orel Hornraven
+|   -         Human, M
+|   -       Chao Jassan
+|   -         Human, F
+|   -       Imzel Calabra
+|   -         Human, F
+|   -       Tai Calabra
+|   -         Human, F
+|   -       Vonda Hornraven
+|   -         Human, F
+|   ______________________
+|   __________________________________
+|   -   Mage House: Sleepy Mesa Mage Guild
+|   -   Tier 4
+|   -   Owner: Luisa Dundragon
+|   -            Human, F
+|   -   Staff:
+|   -       Zora Lackman
+|   -         Human, F
+|   -       Jasmal Lackman
+|   -         Human, F
+|   -       Sergor Buckman
+|   -         Human, M
+|   -       Jalana Wan
+|   -         Human, F
+|   __________________________________
+|   _________________________________
+|   -   Carnival: Sepret's Fancy Carnival
+|   -   Tier 4
+|   -   Owner: Stedd Sepret
+|   -            Human, M
+|   -   Staff:
+|   -       Zolis Windriver
+|   -         Human, F
+|   -       An Stormwind
+|   -         Human, M
+|   -       Shandri Kao
+|   -         Human, F
+|   -       Zolis Anskuld
+|   -         Human, F
+|   -       Zolis Pashar
+|   -         Human, F
+|   -       Pavel Astorio
+|   -         Human, M
+|   -       Jia Pashar
+|   -         Human, F
+|   -       Balama Buckman
+|   -         Human, F
+|   _________________________________
+|   ________________________________
+|   -   Bathhouse: Sleepy Mesa Bathhouse
+|   -   Tier 4
+|   ________________________________
+|   __________________________________________
+|   -   Fortune Teller: Amafrey Anskuld's Fortunes
+|   -   Tier 4
+|   -   Owner: Amafrey Anskuld
+|   -            Human, F
+|   __________________________________________
+|   _____________________________
+|   -   Barbershop: Sloppy Barbershop
+|   -   Tier 4
+|   -   Owner: Stedd Stayanoga
+|   -            Human, M
+|   -   Stylists:
+|   -       Lian Greycastle
+|   -         Human, M
+|   -       Zasheir Murnyethara
+|   -         Human, M
+|   -       Ivor Starag
+|   -         Human, M
+|   -       Chen Huang
+|   -         Human, M
+|   -       Diero Sum
+|   -         Human, M
+|   _____________________________
+|   _________________________
+|   -   General Store: Dyernina's
+|   -   Tier 5
+|   -   Owner: Thola Dyernina
+|   -            Human, F
+|   -   Staff:
+|   -       Olma Khalid
+|   -         Human, F
+|   -       Jasmal Pin
+|   -         Human, F
+|   -       Alethra Chien
+|   -         Human, F
+|   _________________________
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+|   Village: Sorrow Basin
+|   Leader: Grim Ling
+|             Human, M
+|   Population: 1287
+|   Points of Interest:
+|   _____________________
+|   -   Manor: Ling Manor
+|   -   Tier 3
+|   -   Owner: Grim Ling
+|   -            Human, M
+|   -   Guards:
+|   -       Lureene Iltazyara
+|   -         Human, F
+|   -       Esvele Chernin
+|   -         Human, F
+|   -       Meng Helder
+|   -         Human, M
+|   -       Romero Hahpet
+|   -         Human, M
+|   -       Glar Mostana
+|   -         Human, M
+|   -       Kerri Pisacar
+|   -         Human, F
+|   _____________________
+|   ________________________
+|   -   Inn: Sorrow Basin Inn
+|   -   Tier 3
+|   -   Owner: Navarra Stayanoga
+|   -            Human, F
+|   -   Staff:
+|   -       Betha Stayanoga
+|   -         Human, F
+|   -       Hama Stayanoga
+|   -         Human, F
+|   -       Jalana Stayanoga
+|   -         Human, F
+|   ________________________
+|   ___________________________
+|   -   Blacksmith: Sleepy Smithing
+|   -   Tier 3
+|   -   Owner: Sefris Sepret
+|   -            Human, F
+|   -   Assistants:
+|   -       Ehput-Ki Anskuld
+|   -         Human, M
+|   ___________________________
+|   _________________________________________
+|   -   General Store: Sorrow Basin General Store
+|   -   Tier 3
+|   -   Owner: Shevarra Domine
+|   -            Human, F
+|   -   Staff:
+|   -       Arveene Kulenov
+|   -         Human, F
+|   -       Shan Astorio
+|   -         Human, M
+|   -       Frath Shemov
+|   -         Human, M
+|   _________________________________________
+|   _______________________________
+|   -   Barracks: Sorrow Basin Barracks
+|   -   Tier 3
+|   -   Owner: Morn Marsk
+|   -            Human, M
+|   -   Guards:
+|   -       Aoth Falone
+|   -         Human, M
+|   -       Imzel Pisacar
+|   -         Human, F
+|   -       Thola Hornraven
+|   -         Human, F
+|   -       Fyevarra Sepret
+|   -         Human, F
+|   -       Chen Rein
+|   -         Human, M
+|   -       Anton Ling
+|   -         Human, M
+|   -       Diero Chergoba
+|   -         Human, M
+|   -       Kanithar Huang
+|   -         Human, M
+|   -       Murithi Kung
+|   -         Human, F
+|   -       On Chernin
+|   -         Human, M
+|   -       Chi Shemov
+|   -         Human, M
+|   _______________________________
+|   ______________________
+|   -   Brewery: Mopey Brewery
+|   -   Tier 3
+|   -   Owner: Urth Uuthrakt
+|   -            Human, M
+|   ______________________
+|   _____________________________________
+|   -   Marketplace: Sorrow Basin Marketplace
+|   -   Tier 3
+|   -   Owner: Zolis Tallstag
+|   -            Human, F
+|   -   Vendors:
+|   -       Dundragon Sum
+|   -         Human, M
+|   -       On Mei
+|   -         Human, M
+|   -       Ehput-Ki Tallstag
+|   -         Human, M
+|   -       Selise Stayanoga
+|   -         Human, F
+|   -       Luth Iltazyara
+|   -         Human, M
+|   _____________________________________
+|   ________________________________________
+|   -   Fortune Teller: Imzel Nemetsk's Fortunes
+|   -   Tier 3
+|   -   Owner: Imzel Nemetsk
+|   -            Human, F
+|   ________________________________________
+|   ___________________________________
+|   -   Mage House: Sorrow Basin Mage Guild
+|   -   Tier 3
+|   -   Owner: Jhessail Calabra
+|   -            Human, F
+|   -   Staff:
+|   -       Gorstag Marsk
+|   -         Human, M
+|   -       Lian Domine
+|   -         Human, M
+|   ___________________________________
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+|   Village: Rainy Hallow
+|   Leader: Blath Stormwind
+|             Human, M
+|   Population: 1101
+|   Points of Interest:
+|   ______________________
+|   -   Manor: Stormwind Manor
+|   -   Tier 3
+|   -   Owner: Blath Stormwind
+|   -            Human, M
+|   -   Guards:
+|   -       Kara Sepret
+|   -         Human, F
+|   -       Darvin Astorio
+|   -         Human, M
+|   -       Vladislak Kao
+|   -         Human, M
+|   -       Tai Anskuld
+|   -         Human, F
+|   ______________________
+|   _____________________
+|   -   Inn: Rainy Hallow Inn
+|   -   Tier 3
+|   -   Owner: Vonda Pashar
+|   -            Human, F
+|   -   Staff:
+|   -       Jhessail Helder
+|   -         Human, F
+|   -       Faila Hornraven
+|   -         Human, F
+|   -       Thazar-De Ramondo
+|   -         Human, M
+|   _____________________
+|   __________________________
+|   -   Blacksmith: Leaky Smithing
+|   -   Tier 3
+|   -   Owner: Natali Evenwood
+|   -            Human, F
+|   __________________________
+|   _________________________________________
+|   -   General Store: Rainy Hallow General Store
+|   -   Tier 3
+|   -   Owner: Ralmevik Hahpet
+|   -            Human, M
+|   -   Staff:
+|   -       Arizima Pashar
+|   -         Human, F
+|   _________________________________________
+|   _______________________
+|   -   Jail: Rainy Hallow Jail
+|   -   Tier 3
+|   -   Owner: Shui Chergoba
+|   -            Human, M
+|   -   Guards:
+|   -       Vonda Fezim
+|   -         Human, F
+|   -       Alethra Amblecrown
+|   -         Human, F
+|   -       Chi Agosto
+|   -         Human, M
+|   -       Geth Murnyethara
+|   -         Human, M
+|   _______________________
+|   _______________________
+|   -   Brewery: Sleepy Brewery
+|   -   Tier 3
+|   -   Owner: Mara Evenwood
+|   -            Human, F
+|   _______________________
+|   _______________________
+|   -   General Store: Shemov's
+|   -   Tier 3
+|   -   Owner: Cefrey Shemov
+|   -            Human, F
+|   -   Staff:
+|   -       Stedd Domine
+|   -         Human, M
+|   _______________________
+|   ________________________
+|   -   Inn: Leaky Tulip
+|   -   Tier 3
+|   -   Owner: Selise Amblecrown
+|   -            Human, F
+|   -   Staff:
+|   -       Gorstag Tan
+|   -         Human, M
+|   -       Ehput-Ki Shemov
+|   -         Human, M
+|   ________________________
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+|   Village: Gloomy Heights
+|   Leader: Luisa Chien
+|             Human, F
+|   Population: 1107
+|   Points of Interest:
+|   _______________________
+|   -   Manor: Chien Manor
+|   -   Tier 3
+|   -   Owner: Luisa Chien
+|   -            Human, F
+|   -   Guards:
+|   -       Shaumar Dumein
+|   -         Human, M
+|   -       Zolis Kao
+|   -         Human, F
+|   -       Fodel Shin
+|   -         Human, M
+|   -       Thazar-De Iltazyara
+|   -         Human, M
+|   -       Yasheira Dotsk
+|   -         Human, F
+|   _______________________
+|   _______________________
+|   -   Inn: Gloomy Heights Inn
+|   -   Tier 3
+|   -   Owner: Kerri Pisacar
+|   -            Human, F
+|   -   Staff:
+|   -       Murithi Brightwood
+|   -         Human, F
+|   _______________________
+|   __________________________
+|   -   Blacksmith: Mopey Smithing
+|   -   Tier 3
+|   -   Owner: Navarra Marivaldi
+|   -            Human, F
+|   -   Assistants:
+|   -       Lian Calabra
+|   -         Human, M
+|   __________________________
+|   ___________________________________________
+|   -   General Store: Gloomy Heights General Store
+|   -   Tier 3
+|   -   Owner: Faila Amblecrown
+|   -            Human, F
+|   -   Staff:
+|   -       So-Kehur Evenwood
+|   -         Human, M
+|   -       Madislak Wan
+|   -         Human, M
+|   ___________________________________________
+|   _____________________
+|   -   Shrine: Greedy Shrine
+|   -   Tier 3
+|   _____________________
+|   _________________________
+|   -   Wizard Tower: Mopey Tower
+|   -   Tier 3
+|   -   Owner: Stor Domine
+|   -            Human, M
+|   _________________________
+|   _________________________
+|   -   General Store: Ulmokina's
+|   -   Tier 3
+|   -   Owner: Zolis Ulmokina
+|   -            Human, F
+|   -   Staff:
+|   -       Imzel Brightwood
+|   -         Human, F
+|   _________________________
+|   ____________________________
+|   -   Barbershop: Nutty Barbershop
+|   -   Tier 3
+|   -   Owner: Tessele Fezim
+|   -            Human, F
+|   -   Stylists:
+|   -       Mival Starag
+|   -         Human, M
+|   -       Kosef Uuthrakt
+|   -         Human, M
+|   -       Hama Nathandem
+|   -         Human, F
+|   -       Imzel Domine
+|   -         Human, F
+|   -       Malark Dundragon
+|   -         Human, M
+|   ____________________________
+|   _____________________
+|   -   General Store: Kung's
+|   -   Tier 3
+|   -   Owner: Shevarra Kung
+|   -            Human, F
+|   -   Staff:
+|   -       Darvin Tan
+|   -         Human, M
+|   _____________________
+|   ______________________
+|   -   Inn: Tasty Pig
+|   -   Tier 3
+|   -   Owner: Jasmal Dyernina
+|   -            Human, F
+|   -   Staff:
+|   -       Vonda Chergoba
+|   -         Human, F
+|   -       Tammith Fezim
+|   -         Human, F
+|   ______________________
+|   _________________________________
+|   -   Cemetary: Gloomy Heights Cemetary
+|   -   Tier 3
+|   -   Grave Keeper: Lureene Shemov
+|   -                   Human, F
+|   _________________________________
+|   _______________________
+|   -   Brewery: Tasty Brewery
+|   -   Tier 3
+|   -   Owner: Imzel Brightwood
+|   -            Human, F
+|   -   Assistants:
+|   -       Dona Ulmokina
+|   -         Human, F
+|   _______________________
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+|   Town: Rainy Brook
+|   Leader: Stor Uuthrakt
+|             Human, M
+|   Population: 2587
+|   Points of Interest:
+|   _____________________
+|   -   Manor: Uuthrakt Manor
+|   -   Tier 4
+|   -   Owner: Stor Uuthrakt
+|   -            Human, M
+|   -   Guards:
+|   -       Igan Ramondo
+|   -         Human, M
+|   -       Navarra Nemetsk
+|   -         Human, F
+|   -       Arveene Hahpet
+|   -         Human, F
+|   -       Zasheida Bersk
+|   -         Human, F
+|   -       Natali Chergoba
+|   -         Human, F
+|   -       Meilil Calabra
+|   -         Human, F
+|   _____________________
+|   _______________________
+|   -   Inn: Rainy Brook Inn
+|   -   Tier 4
+|   -   Owner: Kara Windriver
+|   -            Human, F
+|   -   Staff:
+|   -       Dundragon Windriver
+|   -         Human, M
+|   -       Shan Windriver
+|   -         Human, M
+|   _______________________
+|   ______________________________
+|   -   Blacksmith: Wonderful Smithing
+|   -   Tier 4
+|   -   Owner: Immith Chien
+|   -            Human, F
+|   -   Assistants:
+|   -       Katernin Pisacar
+|   -         Human, F
+|   ______________________________
+|   ________________________________________
+|   -   General Store: Rainy Brook General Store
+|   -   Tier 4
+|   -   Owner: Bareris Tallstag
+|   -            Human, M
+|   -   Staff:
+|   -       Aoth Hornraven
+|   -         Human, M
+|   -       Zora Stormwind
+|   -         Human, F
+|   -       Wen Mei
+|   -         Human, M
+|   ________________________________________
+|   __________________________________
+|   -   Guildhouse: Rainy Brook Guildhouse
+|   -   Tier 4
+|   -   Owner: Faila Dotsk
+|   -            Human, F
+|   -   Staff:
+|   -       Fyevarra Stormwind
+|   -         Human, F
+|   -       Marta Sepret
+|   -         Human, F
+|   -       Balama Tallstag
+|   -         Human, F
+|   -       Urthur Basha
+|   -         Human, M
+|   __________________________________
+|   ____________________________
+|   -   Library: Rainy Brook Library
+|   -   Tier 4
+|   -   Owner: Tana Helder
+|   -            Human, F
+|   -   Librarians:
+|   -       Hulmarra Fezim
+|   -         Human, F
+|   -       Meilil Falone
+|   -         Human, F
+|   ____________________________
+|   ______________________
+|   -   General Store: Dotsk's
+|   -   Tier 4
+|   -   Owner: Ander Dotsk
+|   -            Human, M
+|   -   Staff:
+|   -       Thola Kulenov
+|   -         Human, F
+|   -       Meng Khalid
+|   -         Human, M
+|   -       Cefrey Stormwind
+|   -         Human, F
+|   -       Jalana Sepret
+|   -         Human, F
+|   ______________________
+|   ______________________
+|   -   Arsenal: Crazy Weapons
+|   -   Tier 4
+|   -   Owner: Randal Pisacar
+|   -            Human, M
+|   -   Assistants:
+|   -       Mehmen Murnyethara
+|   -         Human, M
+|   ______________________
+|   _________________________
+|   -   Scrollshop: Leaky Scrolls
+|   -   Tier 4
+|   -   Owner: Salazar Agosto
+|   -            Human, M
+|   _________________________
+|   _________________________
+|   -   General Store: Ankhalab's
+|   -   Tier 4
+|   -   Owner: Umara Ankhalab
+|   -            Human, F
+|   -   Staff:
+|   -       Khemed Wan
+|   -         Human, M
+|   _________________________
+|   _______________________
+|   -   Armory: Wonderful Armor
+|   -   Tier 4
+|   -   Owner: Glar Dundragon
+|   -            Human, M
+|   -   Assistants:
+|   -       Betha Agosto
+|   -         Human, F
+|   -       Faugar Ankhalab
+|   -         Human, M
+|   -       Jandar Pashar
+|   -         Human, M
+|   _______________________
+|   ____________________________
+|   -   Stonemason: Blissful Masonry
+|   -   Tier 4
+|   -   Owner: Salazar Murnyethara
+|   -            Human, M
+|   -   Assistants:
+|   -       Kerri Calabra
+|   -         Human, F
+|   ____________________________
+|   ___________________________________
+|   -   Fortune Teller: Meng Kao's Fortunes
+|   -   Tier 4
+|   -   Owner: Meng Kao
+|   -            Human, M
+|   ___________________________________
+|   ________________________________
+|   -   Marketplace: Pisacar Marketplace
+|   -   Tier 4
+|   -   Owner: Bai Pisacar
+|   -            Human, F
+|   -   Vendors:
+|   -       Miri Greycastle
+|   -         Human, F
+|   -       Chi Dumein
+|   -         Human, M
+|   -       Ander Bersk
+|   -         Human, M
+|   -       Katernin Nemetsk
+|   -         Human, F
+|   -       Ander Chernin
+|   -         Human, M
+|   -       Westra Lao
+|   -         Human, F
+|   ________________________________
+|   ______________________________
+|   -   Barracks: Rainy Brook Barracks
+|   -   Tier 4
+|   -   Owner: Malark Uuthrakt
+|   -            Human, M
+|   -   Guards:
+|   -       Lureene Chergoba
+|   -         Human, F
+|   -       Shan Huang
+|   -         Human, M
+|   -       Cefrey Wan
+|   -         Human, F
+|   -       Katernin Helder
+|   -         Human, F
+|   -       Esvele Mei
+|   -         Human, F
+|   -       Mei Khalid
+|   -         Human, F
+|   -       Fodel Dyernina
+|   -         Human, M
+|   -       Marta Pashar
+|   -         Human, F
+|   -       Umbero Dotsk
+|   -         Human, M
+|   -       Stedd Hornraven
+|   -         Human, M
+|   ______________________________
+|   __________________________________
+|   -   Mage House: Rainy Brook Mage Guild
+|   -   Tier 4
+|   -   Owner: Jasmal Greycastle
+|   -            Human, F
+|   -   Staff:
+|   -       Balama Tallstag
+|   -         Human, F
+|   -       Aoth Windriver
+|   -         Human, M
+|   __________________________________
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+|   Village: Dull Relief
+|   Leader: Olma Wan
+|             Human, F
+|   Population: 1051
+|   Points of Interest:
+|   _____________________
+|   -   Manor: Wan Manor
+|   -   Tier 3
+|   -   Owner: Olma Wan
+|   -            Human, F
+|   -   Guards:
+|   -       Vonda Calabra
+|   -         Human, F
+|   -       Esvele Kao
+|   -         Human, F
+|   -       Faugar Greycastle
+|   -         Human, M
+|   -       Meng Huang
+|   -         Human, M
+|   -       Yasheira Fezim
+|   -         Human, F
+|   _____________________
+|   ______________________
+|   -   Inn: Dull Relief Inn
+|   -   Tier 3
+|   -   Owner: Urth Marivaldi
+|   -            Human, M
+|   -   Staff:
+|   -       Tammith Marivaldi
+|   -         Human, F
+|   -       Hulmarra Marivaldi
+|   -         Human, F
+|   ______________________
+|   __________________________
+|   -   Blacksmith: Fancy Smithing
+|   -   Tier 3
+|   -   Owner: Arveene Marsk
+|   -            Human, F
+|   __________________________
+|   ________________________________________
+|   -   General Store: Dull Relief General Store
+|   -   Tier 3
+|   -   Owner: Wen Fezim
+|   -            Human, M
+|   -   Staff:
+|   -       Mehmen Ramondo
+|   -         Human, M
+|   -       Imzel Huang
+|   -         Human, F
+|   -       Fodel Greycastle
+|   -         Human, M
+|   ________________________________________
+|   ____________________________
+|   -   Blacksmith: Careful Smithing
+|   -   Tier 3
+|   -   Owner: Selise Calabra
+|   -            Human, F
+|   ____________________________
+|   _____________________
+|   -   Inn: Sturdy Flower
+|   -   Tier 3
+|   -   Owner: Atala Astorio
+|   -            Human, F
+|   -   Staff:
+|   -       Kethoth Stayanoga
+|   -         Human, M
+|   -       Mumed Mei
+|   -         Human, M
+|   -       Pavel Domine
+|   -         Human, M
+|   _____________________
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~
+|   Hamlet: Sunny Haven
+|   Leader: Lei Dumein
+|             Human, F
+|   Population: 322
+|   Points of Interest:
+|   _____________________
+|   -   Inn: Sunny Haven Inn
+|   -   Tier 1
+|   -   Owner: Khemed Pisacar
+|   -            Human, M
+|   -   Staff:
+|   -       Fodel Stayanoga
+|   -         Human, M
+|   _____________________
+~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+|   City: Sorrow Relief
+|   Leader: Glar Hahpet
+|             Human, M
+|   Population: 10331
+|   Points of Interest:
+|   ______________________
+|   -   Manor: Hahpet Manor
+|   -   Tier 5
+|   -   Owner: Glar Hahpet
+|   -            Human, M
+|   -   Guards:
+|   -       Amafrey Brightwood
+|   -         Human, F
+|   -       Lureene Huang
+|   -         Human, F
+|   -       Faugar Dyernina
+|   -         Human, M
+|   -       Nephis Helder
+|   -         Human, F
+|   -       Hama Basha
+|   -         Human, F
+|   -       Mumed Brightwood
+|   -         Human, M
+|   -       Amafrey Basha
+|   -         Human, F
+|   -       Kethra Calabra
+|   -         Human, F
+|   -       Kethoth Nathandem
+|   -         Human, M
+|   ______________________
+|   _______________________
+|   -   Inn: Sorrow Relief Inn
+|   -   Tier 5
+|   -   Owner: Khemed Marivaldi
+|   -            Human, M
+|   -   Staff:
+|   -       Kethra Marivaldi
+|   -         Human, F
+|   _______________________
+|   ____________________________
+|   -   Blacksmith: Careful Smithing
+|   -   Tier 5
+|   -   Owner: On Chien
+|   -            Human, M
+|   -   Assistants:
+|   -       Wen Calabra
+|   -         Human, M
+|   -       Sudeiman Dundragon
+|   -         Human, M
+|   -       Jalana Chien
+|   -         Human, F
+|   ____________________________
+|   __________________________________________
+|   -   General Store: Sorrow Relief General Store
+|   -   Tier 5
+|   -   Owner: Betha Shin
+|   -            Human, F
+|   -   Staff:
+|   -       Jandar Uuthrakt
+|   -         Human, M
+|   __________________________________________
+|   ____________________________________
+|   -   Guildhouse: Sorrow Relief Guildhouse
+|   -   Tier 5
+|   -   Owner: Tai Kulenov
+|   -            Human, F
+|   -   Staff:
+|   -       Fai Lao
+|   -         Human, M
+|   -       Grim Ankhalab
+|   -         Human, M
+|   -       On Rein
+|   -         Human, M
+|   -       Luth Hahpet
+|   -         Human, M
+|   ____________________________________
+|   _____________________
+|   -   Armory: Old Armor
+|   -   Tier 5
+|   -   Owner: Faila Chergoba
+|   -            Human, F
+|   -   Assistants:
+|   -       Chao Helder
+|   -         Human, F
+|   -       Navarra Uuthrakt
+|   -         Human, F
+|   _____________________
+|   ________________________
+|   -   Jail: Ulmokina Jail
+|   -   Tier 5
+|   -   Owner: Sudeiman Ulmokina
+|   -            Human, M
+|   -   Guards:
+|   -       Darvin Agosto
+|   -         Human, M
+|   -       Lander Ramondo
+|   -         Human, M
+|   -       Long Brightwood
+|   -         Human, M
+|   -       Ralmevik Jassan
+|   -         Human, M
+|   -       Glar Pashar
+|   -         Human, M
+|   -       Ceidil Stayanoga
+|   -         Human, F
+|   -       Pavel Kulenov
+|   -         Human, M
+|   -       Alethra Agosto
+|   -         Human, F
+|   -       Arveene Ramondo
+|   -         Human, F
+|   ________________________
+|   ____________________________________
+|   -   Courthouse: Sorrow Relief Courthouse
+|   -   Tier 6
+|   -   Owner: Lander Marivaldi
+|   -            Human, M
+|   -   Guards:
+|   -       Borivik Bersk
+|   -         Human, M
+|   -       Haseid Uuthrakt
+|   -         Human, M
+|   ____________________________________
+|   ________________________________________________________
+|   -   Mage House: Sorrow Relief Mage Guild, Hornraven's Branch
+|   -   Tier 5
+|   -   Owner: Wen Hornraven
+|   -            Human, M
+|   -   Staff:
+|   -       Wen Lao
+|   -         Human, M
+|   -       Seipora Basha
+|   -         Human, F
+|   -       Ralmevik Shemov
+|   -         Human, M
+|   -       Jalana Astorio
+|   -         Human, F
+|   ________________________________________________________
+|   __________________________
+|   -   Scrollshop: Sloppy Scrolls
+|   -   Tier 5
+|   -   Owner: Ramas Jassan
+|   -            Human, M
+|   __________________________
+|   __________________
+|   -   Jail: Kao Jail
+|   -   Tier 6
+|   -   Owner: Ceidil Kao
+|   -            Human, F
+|   -   Guards:
+|   -       Mival Basha
+|   -         Human, M
+|   -       Navarra Helder
+|   -         Human, F
+|   -       Ivor Evenwood
+|   -         Human, M
+|   -       Vonda Tan
+|   -         Human, F
+|   -       Romero Chien
+|   -         Human, M
+|   -       Malcer Lackman
+|   -         Human, M
+|   -       Immith Huang
+|   -         Human, F
+|   -       Arizima Kao
+|   -         Human, F
+|   -       Igan Iltazyara
+|   -         Human, M
+|   __________________
+|   _____________________
+|   -   Theater: Pin Theater
+|   -   Tier 5
+|   -   Owner: Geth Pin
+|   -            Human, M
+|   -   Staff:
+|   -       Ralmevik Domine
+|   -         Human, M
+|   -       Pavel Marsk
+|   -         Human, M
+|   -       Rowan Mostana
+|   -         Human, F
+|   -       Helm Huang
+|   -         Human, M
+|   -       Gorstag Stormwind
+|   -         Human, M
+|   -   Vendors:
+|   -       Umbero Kung
+|   -         Human, M
+|   -       Lureene Stormwind
+|   -         Human, F
+|   -       Jhessail Helder
+|   -         Human, F
+|   -       Shandri Ankhalab
+|   -         Human, F
+|   -       Ander Basha
+|   -         Human, M
+|   -       Jasmal Buckman
+|   -         Human, F
+|   -       Olga Jassan
+|   -         Human, F
+|   -       Tana Huang
+|   -         Human, F
+|   -       Anton Fezim
+|   -         Human, M
+|   -       Marcon Anskuld
+|   -         Human, M
+|   _____________________
+|   _________________________
+|   -   Mage House: Mei Warehouse
+|   -   Tier 5
+|   -   Owner: Stor Mei
+|   -            Human, M
+|   -   Guards:
+|   -       Sefris Ankhalab
+|   -         Human, F
+|   -       Ralmevik Agosto
+|   -         Human, M
+|   -       Miri Mei
+|   -         Human, F
+|   -       Arizima Wan
+|   -         Human, F
+|   -       Blath Chergoba
+|   -         Human, M
+|   -       Alethra Lao
+|   -         Human, F
+|   -       Lander Amblecrown
+|   -         Human, M
+|   -       Tammith Calabra
+|   -         Human, F
+|   -       Blath Agosto
+|   -         Human, M
+|   -       Chathi Astorio
+|   -         Human, F
+|   -       Stor Falone
+|   -         Human, M
+|   -       Mival Tallstag
+|   -         Human, M
+|   _________________________
+|   ____________________________________
+|   -   Carnival: Dyernina's Sloppy Carnival
+|   -   Tier 5
+|   -   Owner: Lureene Dyernina
+|   -            Human, F
+|   -   Staff:
+|   -       Pieron Evenwood
+|   -         Human, M
+|   -       Tai Ramondo
+|   -         Human, F
+|   -       Rowan Bersk
+|   -         Human, F
+|   -       Mumed Bersk
+|   -         Human, M
+|   -       Mara Brightwood
+|   -         Human, F
+|   -       Tammith Helder
+|   -         Human, F
+|   -       Mival Lackman
+|   -         Human, M
+|   -       Haseid Tan
+|   -         Human, M
+|   -       Lei Mostana
+|   -         Human, F
+|   -       Nephis Dotsk
+|   -         Human, F
+|   ____________________________________
+|   ____________________
+|   -   General Store: Lao's
+|   -   Tier 5
+|   -   Owner: Mei Lao
+|   -            Human, F
+|   -   Staff:
+|   -       Faila Marivaldi
+|   -         Human, F
+|   -       Cefrey Falone
+|   -         Human, F
+|   -       Dundragon Huang
+|   -         Human, M
+|   -       Betha Tan
+|   -         Human, F
+|   ____________________
+|   ______________________________________
+|   -   Scriptorium: Sorrow Relief Scriptorium
+|   -   Tier 5
+|   -   Owner: Esvele Lao
+|   -            Human, F
+|   -   Scribes:
+|   -       On Ankhalab
+|   -         Human, M
+|   -       Sergor Pashar
+|   -         Human, M
+|   -       Rimardo Khalid
+|   -         Human, M
+|   -       Ander Rein
+|   -         Human, M
+|   -       Immith Sum
+|   -         Human, F
+|   -       Betha Windriver
+|   -         Human, F
+|   -       Tai Lao
+|   -         Human, F
+|   -       Silifrey Lackman
+|   -         Human, F
+|   -       Blath Marivaldi
+|   -         Human, M
+|   -       Rowan Helder
+|   -         Human, F
+|   -       Lureene Wan
+|   -         Human, F
+|   -       Thola Calabra
+|   -         Human, F
+|   -       Jalana Falone
+|   -         Human, F
+|   -       Arizima Nathandem
+|   -         Human, F
+|   -       Bran Astorio
+|   -         Human, M
+|   ______________________________________
+|   ______________________
+|   -   Museum: Wan Museum
+|   -   Tier 5
+|   -   Owner:On Wan
+|   -            Human, M
+|   -   Guides:
+|   -       Nephis Hahpet
+|   -         Human, F
+|   -       Esvele Starag
+|   -         Human, F
+|   -       Kara Marsk
+|   -         Human, F
+|   -       Bareris Marivaldi
+|   -         Human, M
+|   -   Day Guards:
+|   -       Chen Astorio
+|   -         Human, M
+|   -       Gorstag Greycastle
+|   -         Human, M
+|   -       Nephis Tan
+|   -         Human, F
+|   -       Lei Mostana
+|   -         Human, F
+|   -       Betha Windriver
+|   -         Human, F
+|   -   Night Guards:
+|   -       Luth Bersk
+|   -         Human, M
+|   -       Selise Dyernina
+|   -         Human, F
+|   -       Esvele Stormwind
+|   -         Human, F
+|   ______________________
+|   ______________________________________________________
+|   -   Guildhouse: Sorrow Relief Guildhouse, Lackman's Branch
+|   -   Tier 5
+|   -   Owner: Vonda Lackman
+|   -            Human, F
+|   -   Staff:
+|   -       Jasmal Tallstag
+|   -         Human, F
+|   -       Selise Agosto
+|   -         Human, F
+|   -       Natali Sum
+|   -         Human, F
+|   ______________________________________________________
+|   _______________________
+|   -   Library: Agosto Library
+|   -   Tier 5
+|   -   Owner: Esvele Agosto
+|   -            Human, F
+|   -   Librarians:
+|   -       Mehmen Pashar
+|   -         Human, M
+|   -       Umbero Uuthrakt
+|   -         Human, M
+|   -       Bareris Kao
+|   -         Human, M
+|   -       Malcer Hahpet
+|   -         Human, M
+|   -       Bai Windriver
+|   -         Human, F
+|   -       Arizima Kung
+|   -         Human, F
+|   _______________________
+|   ______________________
+|   -   Brewery: Mopey Brewery
+|   -   Tier 5
+|   -   Owner: Yuldra Khalid
+|   -            Human, F
+|   -   Assistants:
+|   -       Urthur Chernin
+|   -         Human, M
+|   -       Grim Dumein
+|   -         Human, M
+|   -       Ivor Shemov
+|   -         Human, M
+|   ______________________
+|   _____________________
+|   -   Inn: Old Minotaur
+|   -   Tier 5
+|   -   Owner: Faila Ankhalab
+|   -            Human, F
+|   -   Staff:
+|   -       Malcer Ulmokina
+|   -         Human, M
+|   -       Tammith Dundragon
+|   -         Human, F
+|   _____________________
+|   ____________________________
+|   -   Apothecary: Fancy Apothecary
+|   -   Tier 5
+|   -   Owner: Ander Ulmokina
+|   -            Human, M
+|   -   Assistants:
+|   -       Olga Hahpet
+|   -         Human, F
+|   -       Marta Shin
+|   -         Human, F
+|   -       Shui Kung
+|   -         Human, F
+|   ____________________________
+|   ____________________________
+|   -   Apothecary: Crazy Apothecary
+|   -   Tier 5
+|   -   Owner: Urth Brightwood
+|   -            Human, M
+|   -   Assistants:
+|   -       Bran Fezim
+|   -         Human, M
+|   ____________________________
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+|   Town: Dull Nook
+|   Leader: Jhessail Stayanoga
+|             Human, F
+|   Population: 2003
+|   Points of Interest:
+|   _________________________
+|   -   Manor: Stayanoga Manor
+|   -   Tier 4
+|   -   Owner: Jhessail Stayanoga
+|   -            Human, F
+|   -   Guards:
+|   -       Meilil Chernin
+|   -         Human, F
+|   -       Bareris Rein
+|   -         Human, M
+|   -       Atala Pashar
+|   -         Human, F
+|   -       An Agosto
+|   -         Human, M
+|   -       Meilil Ling
+|   -         Human, F
+|   -       Urthur Kulenov
+|   -         Human, M
+|   -       Shui Dyernina
+|   -         Human, M
+|   _________________________
+|   __________________
+|   -   Inn: Dull Nook Inn
+|   -   Tier 4
+|   -   Owner: Lei Shin
+|   -            Human, F
+|   -   Staff:
+|   -       Malark Fezim
+|   -         Human, M
+|   -       Cefrey Mostana
+|   -         Human, F
+|   __________________
+|   __________________________
+|   -   Blacksmith: Fancy Smithing
+|   -   Tier 4
+|   -   Owner: Bai Shin
+|   -            Human, F
+|   -   Assistants:
+|   -       Jalana Anskuld
+|   -         Human, F
+|   -       An Pashar
+|   -         Human, M
+|   -       Lei Rein
+|   -         Human, F
+|   __________________________
+|   ______________________________________
+|   -   General Store: Dull Nook General Store
+|   -   Tier 4
+|   -   Owner: Grigor Helder
+|   -            Human, M
+|   -   Staff:
+|   -       Natali Chernin
+|   -         Human, F
+|   -       Ivor Ulmokina
+|   -         Human, M
+|   -       Stedd Dundragon
+|   -         Human, M
+|   -       Meilil Wan
+|   -         Human, F
+|   ______________________________________
+|   ________________________
+|   -   General Store: Astorio's
+|   -   Tier 4
+|   -   Owner: Anton Astorio
+|   -            Human, M
+|   -   Staff:
+|   -       Kanithar Lackman
+|   -         Human, M
+|   -       Natali Jassan
+|   -         Human, F
+|   ________________________
+|   _______________________________________
+|   -   Carnival: Uuthrakt's Washed Up Carnival
+|   -   Tier 4
+|   -   Owner: Navarra Uuthrakt
+|   -            Human, F
+|   -   Staff:
+|   -       Cefrey Wan
+|   -         Human, F
+|   -       Malcer Kung
+|   -         Human, M
+|   -       Helm Lackman
+|   -         Human, M
+|   -       Meng Khalid
+|   -         Human, M
+|   -       Khemed Agosto
+|   -         Human, M
+|   -       Aoth Nemetsk
+|   -         Human, M
+|   -       Olga Iltazyara
+|   -         Human, F
+|   -       Faila Anskuld
+|   -         Human, F
+|   _______________________________________
+|   ____________________________
+|   -   Cemetary: Dull Nook Cemetary
+|   -   Tier 4
+|   -   Grave Keeper: Betha Anskuld
+|   -                   Human, F
+|   ____________________________
+|   ______________________
+|   -   Kitchen: Careful Tulip
+|   -   Tier 4
+|   -   Owner: Jalana Kulenov
+|   -            Human, F
+|   ______________________
+|   __________________________
+|   -   Barbershop: Old Barbershop
+|   -   Tier 4
+|   -   Owner: Long Chergoba
+|   -            Human, M
+|   -   Stylists:
+|   -       Grigor Chernin
+|   -         Human, M
+|   -       Faila Shin
+|   -         Human, F
+|   -       Yasheira Uuthrakt
+|   -         Human, F
+|   -       Bardeid Lackman
+|   -         Human, M
+|   -       Dundragon Uuthrakt
+|   -         Human, M
+|   __________________________
+|   __________________
+|   -   Inn: Old Bugbear
+|   -   Tier 4
+|   -   Owner: Jia Lao
+|   -            Human, F
+|   -   Staff:
+|   -       Silifrey Marsk
+|   -         Human, F
+|   __________________
+|   ____________________________
+|   -   Barracks: Dull Nook Barracks
+|   -   Tier 4
+|   -   Owner: Zolis Dotsk
+|   -            Human, F
+|   -   Guards:
+|   -       Jasmal Kulenov
+|   -         Human, F
+|   -       Malark Agosto
+|   -         Human, M
+|   -       Lian Ankhalab
+|   -         Human, M
+|   -       Bardeid Lackman
+|   -         Human, M
+|   -       Jia Dyernina
+|   -         Human, F
+|   -       Kerri Hahpet
+|   -         Human, F
+|   -       Mehmen Shemov
+|   -         Human, M
+|   -       Jandar Dundragon
+|   -         Human, M
+|   -       Orel Hahpet
+|   -         Human, M
+|   -       Hama Astorio
+|   -         Human, F
+|   -       Aseir Calabra
+|   -         Human, M
+|   -       Bran Murnyethara
+|   -         Human, M
+|   ____________________________
+|   ____________________________
+|   -   Apothecary: Tasty Apothecary
+|   -   Tier 4
+|   -   Owner: Ivor Sum
+|   -            Human, M
+|   -   Assistants:
+|   -       Tai Kulenov
+|   -         Human, F
+|   -       Nephis Agosto
+|   -         Human, F
+|   ____________________________
+|   ______________________
+|   -   Jail: Dull Nook Jail
+|   -   Tier 4
+|   -   Owner: Ceidil Basha
+|   -            Human, F
+|   -   Guards:
+|   -       Vonda Murnyethara
+|   -         Human, F
+|   -       Darvin Bersk
+|   -         Human, M
+|   -       Lian Brightwood
+|   -         Human, M
+|   -       Kanithar Stormwind
+|   -         Human, M
+|   -       Seipora Kulenov
+|   -         Human, F
+|   -       Evendur Domine
+|   -         Human, M
+|   -       Alethra Iltazyara
+|   -         Human, F
+|   -       Silifrey Hahpet
+|   -         Human, F
+|   ______________________
+|   _________________________
+|   -   General Store: Uuthrakt's
+|   -   Tier 4
+|   -   Owner: Tana Uuthrakt
+|   -            Human, F
+|   -   Staff:
+|   -       Miri Dotsk
+|   -         Human, F
+|   -       Lei Lackman
+|   -         Human, F
+|   -       Natali Sum
+|   -         Human, F
+|   -       Stor Hahpet
+|   -         Human, M
+|   _________________________
+|   ________________________________
+|   -   Mage House: Dull Nook Mage Guild
+|   -   Tier 5
+|   -   Owner: Umara Lackman
+|   -            Human, F
+|   -   Staff:
+|   -       Cefrey Agosto
+|   -         Human, F
+|   ________________________________
+|   ________________________________
+|   -   Courthouse: Dull Nook Courthouse
+|   -   Tier 4
+|   -   Owner: Amafrey Marsk
+|   -            Human, F
+|   -   Guards:
+|   -       Evendur Lao
+|   -         Human, M
+|   -       Glar Amblecrown
+|   -         Human, M
+|   ________________________________
+|   ______________________
+|   -   Stable: Mopey Stables
+|   -   Tier 4
+|   -   Owner: So-Kehur Helder
+|   -            Human, M
+|   -   Assistants:
+|   -       Igan Shin
+|   -         Human, M
+|   ______________________
+|   ________________________________
+|   -   Guildhouse: Dull Nook Guildhouse
+|   -   Tier 4
+|   -   Owner: Lian Lao
+|   -            Human, M
+|   -   Staff:
+|   -       Sergor Ankhalab
+|   -         Human, M
+|   -       Kethra Chien
+|   -         Human, F
+|   ________________________________
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+|   Village: Rainy Mesa
+|   Leader: Jasmal Kulenov
+|             Human, F
+|   Population: 1605
+|   Points of Interest:
+|   _____________________
+|   -   Manor: Kulenov Manor
+|   -   Tier 3
+|   -   Owner: Jasmal Kulenov
+|   -            Human, F
+|   -   Guards:
+|   -       Glar Bersk
+|   -         Human, M
+|   -       Geth Mei
+|   -         Human, M
+|   -       Geth Khalid
+|   -         Human, M
+|   -       Geth Tallstag
+|   -         Human, M
+|   _____________________
+|   ___________________
+|   -   Inn: Rainy Mesa Inn
+|   -   Tier 3
+|   -   Owner: Pavel Lao
+|   -            Human, M
+|   -   Staff:
+|   -       Urthur Lao
+|   -         Human, M
+|   ___________________
+|   ___________________________
+|   -   Blacksmith: Sleepy Smithing
+|   -   Tier 3
+|   -   Owner: Pieron Rein
+|   -            Human, M
+|   ___________________________
+|   _______________________________________
+|   -   General Store: Rainy Mesa General Store
+|   -   Tier 3
+|   -   Owner: Lander Sum
+|   -            Human, M
+|   -   Staff:
+|   -       Pieron Evenwood
+|   -         Human, M
+|   -       Rimardo Lao
+|   -         Human, M
+|   -       Jalana Starag
+|   -         Human, F
+|   _______________________________________
+|   _________________________
+|   -   Tavern: Leaky Cove
+|   -   Tier 3
+|   -   Owner: Katernin Nathandem
+|   -            Human, F
+|   -   Staff:
+|   -       Shevarra Nathandem
+|   -         Human, F
+|   -       Ehput-Ki Nathandem
+|   -         Human, M
+|   -       Luth Nathandem
+|   -         Human, M
+|   _________________________
+|   _________________________
+|   -   General Store: Chergoba's
+|   -   Tier 3
+|   -   Owner: Dona Chergoba
+|   -            Human, F
+|   -   Staff:
+|   -       Jhessail Dyernina
+|   -         Human, F
+|   _________________________
+|   _____________________
+|   -   General Store: Wan's
+|   -   Tier 3
+|   -   Owner: Vladislak Wan
+|   -            Human, M
+|   -   Staff:
+|   -       Morn Nemetsk
+|   -         Human, M
+|   -       Ralmevik Kao
+|   -         Human, M
+|   -       Jhessail Tallstag
+|   -         Human, F
+|   _____________________
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+|   Town: Happy Nook
+|   Leader: Dundragon Starag
+|             Human, M
+|   Population: 2953
+|   Points of Interest:
+|   _______________________
+|   -   Manor: Starag Manor
+|   -   Tier 4
+|   -   Owner: Dundragon Starag
+|   -            Human, M
+|   -   Guards:
+|   -       Gorstag Hahpet
+|   -         Human, M
+|   -       Bareris Starag
+|   -         Human, M
+|   -       Kanithar Shin
+|   -         Human, M
+|   -       Yasheira Sum
+|   -         Human, F
+|   -       Kerri Marivaldi
+|   -         Human, F
+|   -       Shui Basha
+|   -         Human, F
+|   _______________________
+|   ___________________
+|   -   Inn: Happy Nook Inn
+|   -   Tier 4
+|   -   Owner: Selise Kao
+|   -            Human, F
+|   -   Staff:
+|   -       Marta Kao
+|   -         Human, F
+|   ___________________
+|   __________________________
+|   -   Blacksmith: Fancy Smithing
+|   -   Tier 4
+|   -   Owner: Bran Fezim
+|   -            Human, M
+|   -   Assistants:
+|   -       Olga Hahpet
+|   -         Human, F
+|   __________________________
+|   _______________________________________
+|   -   General Store: Happy Nook General Store
+|   -   Tier 4
+|   -   Owner: Thazar-De Mei
+|   -            Human, M
+|   -   Staff:
+|   -       Blath Basha
+|   -         Human, M
+|   -       Meilil Sepret
+|   -         Human, F
+|   -       Zasheir Brightwood
+|   -         Human, M
+|   -       Kanithar Lao
+|   -         Human, M
+|   _______________________________________
+|   _________________________________
+|   -   Guildhouse: Happy Nook Guildhouse
+|   -   Tier 4
+|   -   Owner: Meilil Rein
+|   -            Human, F
+|   -   Staff:
+|   -       Pavel Hahpet
+|   -         Human, M
+|   -       Stedd Shemov
+|   -         Human, M
+|   -       Westra Shemov
+|   -         Human, F
+|   -       Yasheira Ramondo
+|   -         Human, F
+|   _________________________________
+|   _________________________________
+|   -   Mage House: Happy Nook Mage Guild
+|   -   Tier 4
+|   -   Owner: Glar Amblecrown
+|   -            Human, M
+|   -   Staff:
+|   -       Tessele Ankhalab
+|   -         Human, F
+|   -       Vonda Calabra
+|   -         Human, F
+|   _________________________________
+|   ___________________________________
+|   -   Marketplace: Brightwood Marketplace
+|   -   Tier 4
+|   -   Owner: Natali Brightwood
+|   -            Human, F
+|   -   Vendors:
+|   -       Ivor Jassan
+|   -         Human, M
+|   -       Darvin Shin
+|   -         Human, M
+|   -       Olga Agosto
+|   -         Human, F
+|   -       Thazar-De Astorio
+|   -         Human, M
+|   -       Shui Shin
+|   -         Human, M
+|   ___________________________________
+|   __________________________
+|   -   Wizard Tower: Sloppy Tower
+|   -   Tier 4
+|   -   Owner: Chao Brightwood
+|   -            Human, F
+|   __________________________
+|   __________________________
+|   -   General Store: Windriver's
+|   -   Tier 4
+|   -   Owner: Olga Windriver
+|   -            Human, F
+|   -   Staff:
+|   -       Taman Nemetsk
+|   -         Human, M
+|   -       Balama Helder
+|   -         Human, F
+|   -       Evendur Dumein
+|   -         Human, M
+|   -       Ceidil Stormwind
+|   -         Human, F
+|   __________________________
+|   __________________________
+|   -   Carpenter: Nutty Carpentry
+|   -   Tier 4
+|   -   Owner: Esvele Kung
+|   -            Human, F
+|   -   Assistants:
+|   -       Ceidil Murnyethara
+|   -         Human, F
+|   -       Diero Domine
+|   -         Human, M
+|   __________________________
+|   _________________________________
+|   -   Courthouse: Happy Nook Courthouse
+|   -   Tier 4
+|   -   Owner: Blath Uuthrakt
+|   -            Human, M
+|   -   Guards:
+|   -       Selise Wan
+|   -         Human, F
+|   -       Olma Amblecrown
+|   -         Human, F
+|   -       Borivik Tallstag
+|   -         Human, M
+|   _________________________________
+|   ____________________
+|   -   General Store: Kao's
+|   -   Tier 4
+|   -   Owner: Kanithar Kao
+|   -            Human, M
+|   -   Staff:
+|   -       Mumed Domine
+|   -         Human, M
+|   -       Luth Falone
+|   -         Human, M
+|   -       Marta Greycastle
+|   -         Human, F
+|   -       Blath Stormwind
+|   -         Human, M
+|   ____________________
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+|   Village: Gloomy Hallow
+|   Leader: Arizima Brightwood
+|             Human, F
+|   Population: 1344
+|   Points of Interest:
+|   _________________________
+|   -   Manor: Brightwood Manor
+|   -   Tier 3
+|   -   Owner: Arizima Brightwood
+|   -            Human, F
+|   -   Guards:
+|   -       Ceidil Uuthrakt
+|   -         Human, F
+|   -       Kosef Pisacar
+|   -         Human, M
+|   -       Kethra Calabra
+|   -         Human, F
+|   -       Chao Marsk
+|   -         Human, F
+|   -       Gorstag Greycastle
+|   -         Human, M
+|   -       Lian Marsk
+|   -         Human, M
+|   _________________________
+|   ______________________
+|   -   Inn: Gloomy Hallow Inn
+|   -   Tier 3
+|   -   Owner: Nulara Sum
+|   -            Human, F
+|   -   Staff:
+|   -       Zasheida Marivaldi
+|   -         Human, F
+|   -       Balama Lao
+|   -         Human, F
+|   -       Jalana Stayanoga
+|   -         Human, F
+|   ______________________
+|   __________________________
+|   -   Blacksmith: Mopey Smithing
+|   -   Tier 3
+|   -   Owner: Mei Agosto
+|   -            Human, F
+|   -   Assistants:
+|   -       Sudeiman Pisacar
+|   -         Human, M
+|   __________________________
+|   __________________________________________
+|   -   General Store: Gloomy Hallow General Store
+|   -   Tier 3
+|   -   Owner: Seipora Calabra
+|   -            Human, F
+|   -   Staff:
+|   -       Zora Dotsk
+|   -         Human, F
+|   __________________________________________
+|   ____________________
+|   -   Brewery: Old Brewery
+|   -   Tier 3
+|   -   Owner: Bardeid Mei
+|   -            Human, M
+|   -   Assistants:
+|   -       Rimardo Domine
+|   -         Human, M
+|   ____________________
+|   ________________________
+|   -   Jail: Gloomy Hallow Jail
+|   -   Tier 3
+|   -   Owner: Ivor Brightwood
+|   -            Human, M
+|   -   Guards:
+|   -       Malcer Evenwood
+|   -         Human, M
+|   -       Meng Nemetsk
+|   -         Human, M
+|   -       Jiang Ankhalab
+|   -         Human, M
+|   -       Pavel Kao
+|   -         Human, M
+|   -       Quara Rein
+|   -         Human, F
+|   -       Randal Huang
+|   -         Human, M
+|   ________________________
+|   ______________________
+|   -   General Store: Chien's
+|   -   Tier 3
+|   -   Owner: Shevarra Chien
+|   -            Human, F
+|   -   Staff:
+|   -       Randal Murnyethara
+|   -         Human, M
+|   ______________________
+|   ____________________
+|   -   Inn: Blissful Goblin
+|   -   Tier 3
+|   -   Owner: Grim Rein
+|   -            Human, M
+|   -   Staff:
+|   -       Jandar Rein
+|   -         Human, M
+|   ____________________
+|   ______________________________________
+|   -   Marketplace: Gloomy Hallow Marketplace
+|   -   Tier 3
+|   -   Owner: Dona Fezim
+|   -            Human, F
+|   -   Vendors:
+|   -       Vladislak Evenwood
+|   -         Human, M
+|   -       Faila Nathandem
+|   -         Human, F
+|   -       Kethoth Stayanoga
+|   -         Human, M
+|   -       Urthur Helder
+|   -         Human, M
+|   -       Grim Fezim
+|   -         Human, M
+|   -       Murithi Falone
+|   -         Human, F
+|   ______________________________________
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+|   Hamlet: Sleepy Grove
+|   Leader: Westra Chergoba
+|             Human, F
+|   Population: 323
+|   Points of Interest:
+|   _____________________
+|   -   Inn: Sleepy Grove Inn
+|   -   Tier 1
+|   -   Owner: Umara Helder
+|   -            Human, F
+|   -   Staff:
+|   -       Bardeid Helder
+|   -         Human, M
+|   _____________________
+|   _______________________
+|   -   Clothier: Ling's Styles
+|   -   Tier 1
+|   -   Owner: On Ling
+|   -            Human, M
+|   _______________________
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+|   City: Prismatic Brook
+|   Leader: Shaumar Chien
+|             Human, M
+|   Population: 13648
+|   Points of Interest:
+|   _____________________
+|   -   Manor: Chien Manor
+|   -   Tier 5
+|   -   Owner: Shaumar Chien
+|   -            Human, M
+|   -   Guards:
+|   -       Haseid Basha
+|   -         Human, M
+|   -       Dundragon Calabra
+|   -         Human, M
+|   -       Zolis Pin
+|   -         Human, F
+|   -       Kethra Sum
+|   -         Human, F
+|   -       Betha Bersk
+|   -         Human, F
+|   -       Faugar Tan
+|   -         Human, M
+|   -       Morn Shemov
+|   -         Human, M
+|   _____________________
+|   ____________________
+|   -   Tavern: Sleepy Tulip
+|   -   Tier 5
+|   -   Owner: Mival Pashar
+|   -            Human, M
+|   -   Staff:
+|   -       Jalana Sepret
+|   -         Human, F
+|   -       Blath Windriver
+|   -         Human, M
+|   -       Nulara Hornraven
+|   -         Human, F
+|   -       Urth Shemov
+|   -         Human, M
+|   -       Borivik Falone
+|   -         Human, M
+|   ____________________
+|   __________________________
+|   -   Blacksmith: Crazy Smithing
+|   -   Tier 5
+|   -   Owner: Urth Fezim
+|   -            Human, M
+|   -   Assistants:
+|   -       Salazar Ankhalab
+|   -         Human, M
+|   -       Yuldra Kung
+|   -         Human, F
+|   -       Fodel Kulenov
+|   -         Human, M
+|   __________________________
+|   ____________________________________________
+|   -   General Store: Prismatic Brook General Store
+|   -   Tier 5
+|   -   Owner: Zora Marivaldi
+|   -            Human, F
+|   -   Staff:
+|   -       Mei Hornraven
+|   -         Human, F
+|   -       Jalana Greycastle
+|   -         Human, F
+|   -       Betha Domine
+|   -         Human, F
+|   -       Thola Khalid
+|   -         Human, F
+|   -       Madislak Stormwind
+|   -         Human, M
+|   ____________________________________________
+|   ______________________________________
+|   -   Guildhouse: Prismatic Brook Guildhouse
+|   -   Tier 5
+|   -   Owner: Jun Stormwind
+|   -            Human, M
+|   -   Staff:
+|   -       Ceidil Tallstag
+|   -         Human, F
+|   -       Wen Lao
+|   -         Human, M
+|   ______________________________________
+|   ___________________________
+|   -   Blacksmith: Leaky Smithing
+|   -   Tier 5
+|   -   Owner: Ralmevik Murnyethara
+|   -            Human, M
+|   -   Assistants:
+|   -       Yasheira Basha
+|   -         Human, F
+|   ___________________________
+|   _______________________
+|   -   Clothier: Sleepy Styles
+|   -   Tier 5
+|   -   Owner: Mei Khalid
+|   -            Human, F
+|   -   Assistants:
+|   -       Long Dyernina
+|   -         Human, M
+|   -       Zasheida Helder
+|   -         Human, F
+|   _______________________
+|   _______________________________
+|   -   Apothecary: Blissful Apothecary
+|   -   Tier 5
+|   -   Owner: Jhessail Sum
+|   -            Human, F
+|   -   Assistants:
+|   -       Anton Kulenov
+|   -         Human, M
+|   _______________________________
+|   _____________________
+|   -   Tavern: Sleepy Cat
+|   -   Tier 5
+|   -   Owner: Seipora Dumein
+|   -            Human, F
+|   -   Staff:
+|   -       Shui Bersk
+|   -         Human, M
+|   -       Orel Pashar
+|   -         Human, M
+|   -       Grigor Evenwood
+|   -         Human, M
+|   -       Mumed Lao
+|   -         Human, M
+|   -       Fodel Ulmokina
+|   -         Human, M
+|   _____________________
+|   _________________________________
+|   -   Marketplace: Uuthrakt Marketplace
+|   -   Tier 5
+|   -   Owner: Rimardo Uuthrakt
+|   -            Human, M
+|   -   Vendors:
+|   -       Bai Marsk
+|   -         Human, F
+|   -       Ehput-Ki Murnyethara
+|   -         Human, M
+|   -       Betha Ankhalab
+|   -         Human, F
+|   -       Ceidil Marsk
+|   -         Human, F
+|   -       Shui Sum
+|   -         Human, M
+|   -       Hulmarra Hahpet
+|   -         Human, F
+|   -       Mehmen Mostana
+|   -         Human, M
+|   -       Zasheida Wan
+|   -         Human, F
+|   -       Miri Ramondo
+|   -         Human, F
+|   -       Bor Sepret
+|   -         Human, M
+|   _________________________________
+|   _______________________
+|   -   Theater: Dumein Theater
+|   -   Tier 5
+|   -   Owner: Orel Dumein
+|   -            Human, M
+|   -   Staff:
+|   -       Mehmen Starag
+|   -         Human, M
+|   -       Tammith Tan
+|   -         Human, F
+|   -       Long Chernin
+|   -         Human, M
+|   -   Vendors:
+|   -       Alethra Falone
+|   -         Human, F
+|   -       Tammith Pin
+|   -         Human, F
+|   -       Cefrey Agosto
+|   -         Human, F
+|   -       Meng Sum
+|   -         Human, M
+|   -       Meng Dyernina
+|   -         Human, M
+|   -       Zora Uuthrakt
+|   -         Human, F
+|   _______________________
+|   ____________________
+|   -   Inn: Old Grove
+|   -   Tier 5
+|   -   Owner: Tessele Kung
+|   -            Human, F
+|   -   Chefs:
+|   -       An Amblecrown
+|   -         Human, M
+|   -       Vonda Starag
+|   -         Human, F
+|   -       Zasheida Pisacar
+|   -         Human, F
+|   -       Glar Astorio
+|   -         Human, M
+|   -       Ralmevik Jassan
+|   -         Human, M
+|   -   Waiters:
+|   -       Umbero Kao
+|   -         Human, M
+|   -       Lei Kung
+|   -         Human, F
+|   -       An Sum
+|   -         Human, M
+|   -       Glar Astorio
+|   -         Human, M
+|   -       Bareris Chien
+|   -         Human, M
+|   -       Stor Khalid
+|   -         Human, M
+|   -       Gorstag Tan
+|   -         Human, M
+|   ____________________
+|   __________________
+|   -   Park: Anskuld Park
+|   -   Tier: 5
+|   __________________
+|   ________________________
+|   -   Cemetary: Funny Cemetary
+|   -   Tier 5
+|   -   Grave Keeper: Miri Mei
+|   -                   Human, F
+|   ________________________
+|   ______________________________________
+|   -   Courthouse: Prismatic Brook Courthouse
+|   -   Tier 5
+|   -   Owner: Kethoth Evenwood
+|   -            Human, M
+|   -   Guards:
+|   -       Olma Pin
+|   -         Human, F
+|   -       Olga Greycastle
+|   -         Human, F
+|   -       Ramas Mostana
+|   -         Human, M
+|   -       Shevarra Falone
+|   -         Human, F
+|   -       Zora Calabra
+|   -         Human, F
+|   -       Navarra Astorio
+|   -         Human, F
+|   ______________________________________
+|   _____________________
+|   -   Temple: Dopey Temple
+|   -   Tier 5
+|   -   Owner: Thola Lao
+|   -            Human, F
+|   -   Clerics:
+|   -       Jiang Murnyethara
+|   -         Human, M
+|   -       Malcer Kulenov
+|   -         Human, M
+|   -       Faugar Pisacar
+|   -         Human, M
+|   -       Kosef Marivaldi
+|   -         Human, M
+|   -       Mehmen Dumein
+|   -         Human, M
+|   -       Rimardo Domine
+|   -         Human, M
+|   -       Quara Helder
+|   -         Human, F
+|   -   Acolytes:
+|   -       Dundragon Basha
+|   -         Human, M
+|   _____________________
+|   __________________________________________
+|   -   Hospital: Prismatic Brook General Hospital
+|   -   Tier 5
+|   -   Owner: Jiang Nathandem
+|   -            Human, M
+|   -   Doctors:
+|   -       Chathi Pashar
+|   -         Human, F
+|   -       Nulara Marsk
+|   -         Human, F
+|   -   Nurses:
+|   -       Esvele Dundragon
+|   -         Human, F
+|   -       Diero Starag
+|   -         Human, M
+|   -       Olga Helder
+|   -         Human, F
+|   -       Chi Dumein
+|   -         Human, M
+|   __________________________________________
+|   ____________________________________________________
+|   -   Barracks: Prismatic Brook Barracks, Calabra Division
+|   -   Tier 5
+|   -   Owner: Sudeiman Calabra
+|   -            Human, M
+|   -   Guards:
+|   -       Romero Hornraven
+|   -         Human, M
+|   -       Miri Brightwood
+|   -         Human, F
+|   -       Malcer Chergoba
+|   -         Human, M
+|   -       Stedd Falone
+|   -         Human, M
+|   -       Rowan Lao
+|   -         Human, F
+|   -       Luisa Fezim
+|   -         Human, F
+|   -       Chi Windriver
+|   -         Human, M
+|   -       Quara Iltazyara
+|   -         Human, F
+|   -       Grigor Kulenov
+|   -         Human, M
+|   -       Selise Evenwood
+|   -         Human, F
+|   -       Katernin Mostana
+|   -         Human, F
+|   -       Taman Stayanoga
+|   -         Human, M
+|   -       Jia Murnyethara
+|   -         Human, F
+|   -       Malcer Calabra
+|   -         Human, M
+|   -       Vladislak Astorio
+|   -         Human, M
+|   -       Ehput-Ki Stayanoga
+|   -         Human, M
+|   -       Urth Anskuld
+|   -         Human, M
+|   -       Dona Lao
+|   -         Human, F
+|   -       Bor Basha
+|   -         Human, M
+|   ____________________________________________________
+|   ___________________________________________________
+|   -   Barracks: Prismatic Brook Barracks, Sepret Division
+|   -   Tier 5
+|   -   Owner: Dundragon Sepret
+|   -            Human, M
+|   -   Guards:
+|   -       Ivor Kulenov
+|   -         Human, M
+|   -       Geth Chernin
+|   -         Human, M
+|   -       Betha Ling
+|   -         Human, F
+|   -       Jasmal Pashar
+|   -         Human, F
+|   -       Umara Sepret
+|   -         Human, F
+|   -       Silifrey Domine
+|   -         Human, F
+|   -       Rowan Kulenov
+|   -         Human, F
+|   -       Grigor Dotsk
+|   -         Human, M
+|   -       Anton Mei
+|   -         Human, M
+|   -       Malark Shin
+|   -         Human, M
+|   -       Jalana Jassan
+|   -         Human, F
+|   -       Jandar Kulenov
+|   -         Human, M
+|   -       An Fezim
+|   -         Human, M
+|   -       Quara Shin
+|   -         Human, F
+|   -       Olga Iltazyara
+|   -         Human, F
+|   -       Bardeid Murnyethara
+|   -         Human, M
+|   -       Alethra Uuthrakt
+|   -         Human, F
+|   -       Kethra Wan
+|   -         Human, F
+|   ___________________________________________________
+|   _______________________
+|   -   Theater: Starag Theater
+|   -   Tier 5
+|   -   Owner: Betha Starag
+|   -            Human, F
+|   -   Staff:
+|   -       Lian Ramondo
+|   -         Human, M
+|   -       Arizima Shin
+|   -         Human, F
+|   -       Ceidil Basha
+|   -         Human, F
+|   -   Vendors:
+|   -       Helm Marivaldi
+|   -         Human, M
+|   -       Bai Amblecrown
+|   -         Human, F
+|   -       Seipora Dundragon
+|   -         Human, F
+|   -       Chathi Calabra
+|   -         Human, F
+|   -       Blath Tallstag
+|   -         Human, M
+|   -       Stor Stayanoga
+|   -         Human, M
+|   -       An Wan
+|   -         Human, M
+|   -       Grim Pashar
+|   -         Human, M
+|   -       An Fezim
+|   -         Human, M
+|   -       Jia Marsk
+|   -         Human, F
+|   _______________________
+|   _______________________
+|   -   Brewery: Spiffy Brewery
+|   -   Tier 5
+|   -   Owner: Shaumar Astorio
+|   -            Human, M
+|   -   Assistants:
+|   -       Grigor Ulmokina
+|   -         Human, M
+|   _______________________
+|   ____________________________
+|   -   Barbershop: Nutty Barbershop
+|   -   Tier 5
+|   -   Owner: Marta Dundragon
+|   -            Human, F
+|   -   Stylists:
+|   -       Tai Kulenov
+|   -         Human, F
+|   -       Ivor Chergoba
+|   -         Human, M
+|   -       Chen Dotsk
+|   -         Human, M
+|   -       Pieron Chergoba
+|   -         Human, M
+|   ____________________________
+|   ________________________________________________________
+|   -   Mage House: Prismatic Brook Mage Guild, Buckman's Branch
+|   -   Tier 5
+|   -   Owner: Jasmal Buckman
+|   -            Human, F
+|   -   Staff:
+|   -       Aseir Marivaldi
+|   -         Human, M
+|   -       Tai Pashar
+|   -         Human, F
+|   -       Shui Pashar
+|   -         Human, F
+|   ________________________________________________________
+|   ___________________________
+|   -   Blacksmith: Greedy Smithing
+|   -   Tier 5
+|   -   Owner: Mumed Sum
+|   -            Human, M
+|   -   Assistants:
+|   -       Darvin Chien
+|   -         Human, M
+|   -       Hama Stayanoga
+|   -         Human, F
+|   -       Olma Windriver
+|   -         Human, F
+|   ___________________________
+|   _____________________
+|   -   Inn: Crazy Grove
+|   -   Tier 5
+|   -   Owner: Kethra Agosto
+|   -            Human, F
+|   -   Chefs:
+|   -       Malark Agosto
+|   -         Human, M
+|   -       Yasheira Chernin
+|   -         Human, F
+|   -       Bor Sepret
+|   -         Human, M
+|   -       Bor Kung
+|   -         Human, M
+|   -       Malcer Agosto
+|   -         Human, M
+|   -   Waiters:
+|   -       Zora Stayanoga
+|   -         Human, F
+|   -       Selise Nemetsk
+|   -         Human, F
+|   -       Jun Basha
+|   -         Human, M
+|   -       Fai Tallstag
+|   -         Human, M
+|   -       Shevarra Uuthrakt
+|   -         Human, F
+|   -       Evendur Hornraven
+|   -         Human, M
+|   -       Taman Marsk
+|   -         Human, M
+|   -       Urth Agosto
+|   -         Human, M
+|   _____________________
+|   ____________________
+|   -   Shrine: Funny Shrine
+|   -   Tier 5
+|   ____________________
+|   ________________________________________________________
+|   -   Guildhouse: Prismatic Brook Guildhouse, Calabra's Branch
+|   -   Tier 5
+|   -   Owner: Shevarra Calabra
+|   -            Human, F
+|   -   Staff:
+|   -       Balama Amblecrown
+|   -         Human, F
+|   -       Murithi Bersk
+|   -         Human, F
+|   -       Amafrey Stayanoga
+|   -         Human, F
+|   -       Mehmen Murnyethara
+|   -         Human, M
+|   ________________________________________________________
+|   ___________________________
+|   -   General Store: Greycastle's
+|   -   Tier 5
+|   -   Owner: Borivik Greycastle
+|   -            Human, M
+|   -   Staff:
+|   -       Faila Pisacar
+|   -         Human, F
+|   -       Stedd Huang
+|   -         Human, M
+|   -       Atala Falone
+|   -         Human, F
+|   ___________________________
+|   _____________________
+|   -   Temple: Ye Ol' Temple
+|   -   Tier 5
+|   -   Owner: Umbero Pin
+|   -            Human, M
+|   -   Clerics:
+|   -       Faila Dundragon
+|   -         Human, F
+|   -       Mei Pisacar
+|   -         Human, F
+|   -       Meilil Brightwood
+|   -         Human, F
+|   -       Blath Mei
+|   -         Human, M
+|   -       Shaumar Falone
+|   -         Human, M
+|   -       Tana Ulmokina
+|   -         Human, F
+|   -   Acolytes:
+|   -       Lureene Nemetsk
+|   -         Human, F
+|   -       Diero Marsk
+|   -         Human, M
+|   -       Fyevarra Nemetsk
+|   -         Human, F
+|   -       Dundragon Astorio
+|   -         Human, M
+|   _____________________
+|   _________________________
+|   -   Tavern: Greedy Tulip
+|   -   Tier 6
+|   -   Owner: Kanithar Iltazyara
+|   -            Human, M
+|   -   Staff:
+|   -       Dundragon Chergoba
+|   -         Human, M
+|   -       Darvin Dumein
+|   -         Human, M
+|   -       An Nathandem
+|   -         Human, M
+|   -       Navarra Falone
+|   -         Human, F
+|   -       Jhessail Lao
+|   -         Human, F
+|   _________________________
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+|   Town: Sunny Village
+|   Leader: Shui Astorio
+|             Human, M
+|   Population: 4661
+|   Points of Interest:
+|   _____________________
+|   -   Manor: Astorio Manor
+|   -   Tier 4
+|   -   Owner: Shui Astorio
+|   -            Human, M
+|   -   Guards:
+|   -       Hulmarra Evenwood
+|   -         Human, F
+|   -       Darvin Kulenov
+|   -         Human, M
+|   -       Haseid Astorio
+|   -         Human, M
+|   -       Kethoth Dotsk
+|   -         Human, M
+|   -       Olma Uuthrakt
+|   -         Human, F
+|   -       Arizima Sum
+|   -         Human, F
+|   -       Rowan Ling
+|   -         Human, F
+|   _____________________
+|   ______________________
+|   -   Tavern: Sturdy Alicorn
+|   -   Tier 4
+|   -   Owner: Mara Sepret
+|   -            Human, F
+|   -   Staff:
+|   -       An Khalid
+|   -         Human, M
+|   -       Khemed Dumein
+|   -         Human, M
+|   -       Bran Dyernina
+|   -         Human, M
+|   ______________________
+|   ___________________________
+|   -   Blacksmith: Greedy Smithing
+|   -   Tier 4
+|   -   Owner: Gorstag Marsk
+|   -            Human, M
+|   -   Assistants:
+|   -       Lian Greycastle
+|   -         Human, M
+|   -       Frath Calabra
+|   -         Human, M
+|   ___________________________
+|   __________________________________________
+|   -   General Store: Sunny Village General Store
+|   -   Tier 4
+|   -   Owner: Chen Evenwood
+|   -            Human, M
+|   -   Staff:
+|   -       Zasheida Ling
+|   -         Human, F
+|   -       Zasheida Ling
+|   -         Human, F
+|   __________________________________________
+|   _______________________
+|   -   Stable: Careful Stables
+|   -   Tier 4
+|   -   Owner: Bai Greycastle
+|   -            Human, F
+|   -   Assistants:
+|   -       Ehput-Ki Khalid
+|   -         Human, M
+|   -       Randal Marivaldi
+|   -         Human, M
+|   _______________________
+|   __________________________
+|   -   Alchemist: Sloppy Potions
+|   -   Tier 4
+|   -   Owner: Thazar-De Dundragon
+|   -            Human, M
+|   -   Assistants:
+|   -       Frath Helder
+|   -         Human, M
+|   -       Ander Chernin
+|   -         Human, M
+|   -       Bai Pin
+|   -         Human, F
+|   -       Kethoth Greycastle
+|   -         Human, M
+|   __________________________
+|   _____________________
+|   -   Inn: Nutty Bugbear
+|   -   Tier 5
+|   -   Owner: Frath Dyernina
+|   -            Human, M
+|   -   Staff:
+|   -       Fodel Chergoba
+|   -         Human, M
+|   _____________________
+|   ___________________________
+|   -   Sculptor: Nuanced Sculpting
+|   -   Tier 4
+|   -   Owner: On Domine
+|   -            Human, M
+|   -   Assistants:
+|   -       Lian Astorio
+|   -         Human, M
+|   -       Miri Wan
+|   -         Human, F
+|   -       Stedd Murnyethara
+|   -         Human, M
+|   ___________________________
+|   __________________________________
+|   -   Bathhouse: Sunny Village Bathhouse
+|   -   Tier 4
+|   __________________________________
+|   ________________________
+|   -   Jail: Sunny Village Jail
+|   -   Tier 4
+|   -   Owner: Gorstag Tan
+|   -            Human, M
+|   -   Guards:
+|   -       Ceidil Fezim
+|   -         Human, F
+|   -       Sergor Marivaldi
+|   -         Human, M
+|   -       So-Kehur Helder
+|   -         Human, M
+|   -       Nulara Mostana
+|   -         Human, F
+|   -       Hama Murnyethara
+|   -         Human, F
+|   ________________________
+|   _________________
+|   -   Park: Starag Park
+|   -   Tier: 4
+|   _________________
+|   _________________________
+|   -   General Store: Uuthrakt's
+|   -   Tier 4
+|   -   Owner: Kosef Uuthrakt
+|   -            Human, M
+|   -   Staff:
+|   -       Tammith Uuthrakt
+|   -         Human, F
+|   -       Seipora Iltazyara
+|   -         Human, F
+|   -       Lian Bersk
+|   -         Human, M
+|   -       Esvele Pin
+|   -         Human, F
+|   _________________________
+|   ________________________________
+|   -   Carnival: Bersk's Tasty Carnival
+|   -   Tier 4
+|   -   Owner: Salazar Bersk
+|   -            Human, M
+|   -   Staff:
+|   -       Arveene Murnyethara
+|   -         Human, F
+|   -       Ceidil Tallstag
+|   -         Human, F
+|   -       Navarra Evenwood
+|   -         Human, F
+|   -       Chathi Ankhalab
+|   -         Human, F
+|   -       Immith Domine
+|   -         Human, F
+|   -       Ander Murnyethara
+|   -         Human, M
+|   -       Jia Ling
+|   -         Human, F
+|   -       Katernin Shin
+|   -         Human, F
+|   ________________________________
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+|   Village: Dull Village
+|   Leader: Urth Chergoba
+|             Human, M
+|   Population: 1555
+|   Points of Interest:
+|   ________________________
+|   -   Manor: Chergoba Manor
+|   -   Tier 3
+|   -   Owner: Urth Chergoba
+|   -            Human, M
+|   -   Guards:
+|   -       Yasheira Murnyethara
+|   -         Human, F
+|   -       Jandar Brightwood
+|   -         Human, M
+|   -       Randal Dumein
+|   -         Human, M
+|   -       Katernin Falone
+|   -         Human, F
+|   -       Gorstag Chergoba
+|   -         Human, M
+|   ________________________
+|   _____________________
+|   -   Inn: Dull Village Inn
+|   -   Tier 3
+|   -   Owner: Jalana Kulenov
+|   -            Human, F
+|   -   Staff:
+|   -       Shaumar Kulenov
+|   -         Human, M
+|   -       Natali Kulenov
+|   -         Human, F
+|   -       Yuldra Kulenov
+|   -         Human, F
+|   _____________________
+|   __________________________
+|   -   Blacksmith: Leaky Smithing
+|   -   Tier 3
+|   -   Owner: Silifrey Windriver
+|   -            Human, F
+|   __________________________
+|   _________________________________________
+|   -   General Store: Dull Village General Store
+|   -   Tier 3
+|   -   Owner: Immith Stayanoga
+|   -            Human, F
+|   -   Staff:
+|   -       Stor Lao
+|   -         Human, M
+|   -       Qiao Basha
+|   -         Human, F
+|   _________________________________________
+|   ____________________________
+|   -   Apothecary: Funny Apothecary
+|   -   Tier 4
+|   -   Owner: Zasheida Shemov
+|   -            Human, F
+|   -   Assistants:
+|   -       Shandri Pisacar
+|   -         Human, F
+|   -       Nulara Windriver
+|   -         Human, F
+|   ____________________________
+|   ___________________________
+|   -   Blacksmith: Sturdy Smithing
+|   -   Tier 3
+|   -   Owner: Jalana Lackman
+|   -            Human, F
+|   -   Assistants:
+|   -       Malark Tan
+|   -         Human, M
+|   ___________________________
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
