@@ -4,8 +4,8 @@ public class CountryNameGen
 {
     private Random random = new Random();
     private List<string> namingFiles = new List<string>{
-        "otherNames/city_adjetives.txt",
-        "otherNames/city_names.txt"
+        "otherNames/country_adjetives.txt",
+        "otherNames/country_names.txt"
     };
     private List<string> adjetives = new List<string>();
     private List<string> names = new List<string>();
